@@ -1,0 +1,131 @@
+category_id,name,is_popular,parent_category_id,description,icon_url,created_on,updated_on,active_status,sort_order
+1001,Vegan 1,False,7260.0,This is a Vegan category,https://example.com/icon_1.png,2021-01-04,2023-10-19,True,17
+1002,Main Course 2,False,9359.0,This is a Main Course category,https://example.com/icon_2.png,2022-07-24,2023-10-28,True,56
+1003,Pasta 3,True,7663.0,This is a Beverages category,https://example.com/icon_3.png,2021-05-09,2023-02-21,False,34
+1004,Fast Food 4,True,5707.0,This is a Desserts category,https://example.com/icon_4.png,2021-05-02,2023-06-18,False,80
+1005,Soups 5,True,9941.0,This is a Soups category,https://example.com/icon_5.png,2020-07-22,2024-04-17,True,74
+1006,Salads 6,False,8106.0,This is a Grill category,https://example.com/icon_6.png,2022-02-22,2024-12-07,True,81
+1007,Main Course 7,False,7957.0,This is a BBQ category,https://example.com/icon_7.png,2022-11-11,2024-04-26,True,35
+1008,Beverages 8,True,4373.0,This is a Seafood category,https://example.com/icon_8.png,2022-10-05,2024-09-26,False,59
+1009,Pizza 9,True,4396.0,This is a Pizza category,https://example.com/icon_9.png,2021-03-07,2024-05-21,False,66
+1010,Salads 10,False,,This is a Desserts category,https://example.com/icon_10.png,2020-05-13,2024-09-12,False,32
+1011,Pizza 11,True,9588.0,This is a Soups category,https://example.com/icon_11.png,2021-11-14,2023-11-28,True,75
+1012,Pasta 12,True,4241.0,This is a Vegan category,https://example.com/icon_12.png,2020-02-10,2024-11-17,False,61
+1013,Pasta 13,False,5207.0,This is a Desserts category,https://example.com/icon_13.png,2022-08-03,2024-09-30,False,100
+1014,Seafood 14,False,1395.0,This is a Pizza category,https://example.com/icon_14.png,2020-06-16,2024-02-20,False,75
+1015,Pasta 15,True,1026.0,This is a Pasta category,https://example.com/icon_15.png,2021-10-20,2024-11-30,False,43
+1016,Pasta 16,True,6405.0,This is a Salads category,https://example.com/icon_16.png,2020-08-13,2023-06-18,False,29
+1017,Seafood 17,True,5983.0,This is a Vegan category,https://example.com/icon_17.png,2022-08-27,2023-02-24,True,15
+1018,Desserts 18,False,8277.0,This is a Soups category,https://example.com/icon_18.png,2022-12-27,2024-05-24,False,8
+1019,Vegan 19,True,2817.0,This is a Main Course category,https://example.com/icon_19.png,2021-12-09,2023-10-05,True,7
+1020,Desserts 20,True,,This is a Desserts category,https://example.com/icon_20.png,2022-01-31,2023-03-08,False,57
+1021,Desserts 21,False,3841.0,This is a Pasta category,https://example.com/icon_21.png,2021-09-09,2023-08-01,False,50
+1022,Soups 22,True,5495.0,This is a Fast Food category,https://example.com/icon_22.png,2020-05-16,2023-03-04,True,8
+1023,Salads 23,True,3263.0,This is a Desserts category,https://example.com/icon_23.png,2020-09-19,2024-08-30,False,6
+1024,Desserts 24,False,4112.0,This is a Salads category,https://example.com/icon_24.png,2021-07-27,2024-10-01,False,29
+1025,Soups 25,True,6627.0,This is a Pasta category,https://example.com/icon_25.png,2022-05-06,2024-03-27,False,73
+1026,Soups 26,False,460.0,This is a Main Course category,https://example.com/icon_26.png,2021-03-12,2023-05-21,True,8
+1027,Salads 27,True,9756.0,This is a Salads category,https://example.com/icon_27.png,2022-04-30,2023-10-17,True,67
+1028,Main Course 28,False,8061.0,This is a Beverages category,https://example.com/icon_28.png,2021-11-16,2023-03-01,False,51
+1029,Beverages 29,True,4336.0,This is a Main Course category,https://example.com/icon_29.png,2022-02-21,2023-08-01,True,73
+1030,Beverages 30,True,,This is a Salads category,https://example.com/icon_30.png,2022-09-10,2023-01-15,True,14
+1031,Fast Food 31,True,1112.0,This is a Pizza category,https://example.com/icon_31.png,2020-08-08,2023-07-06,False,36
+1032,Soups 32,False,8811.0,This is a Main Course category,https://example.com/icon_32.png,2020-01-23,2023-09-06,False,28
+1033,Soups 33,True,1610.0,This is a Vegan category,https://example.com/icon_33.png,2022-06-06,2024-08-01,True,94
+1034,Soups 34,True,7854.0,This is a Appetizers category,https://example.com/icon_34.png,2020-04-20,2024-01-19,False,79
+1035,Seafood 35,False,1615.0,This is a Fast Food category,https://example.com/icon_35.png,2021-06-23,2024-07-05,True,1
+1036,Vegan 36,False,6840.0,This is a Pasta category,https://example.com/icon_36.png,2020-11-12,2023-09-08,False,37
+1037,Seafood 37,True,2817.0,This is a Soups category,https://example.com/icon_37.png,2020-07-24,2024-07-25,False,11
+1038,Pasta 38,False,5105.0,This is a Soups category,https://example.com/icon_38.png,2022-07-24,2024-09-01,False,79
+1039,Vegan 39,True,2408.0,This is a Vegan category,https://example.com/icon_39.png,2020-07-16,2024-02-12,True,75
+1040,Beverages 40,True,,This is a Pasta category,https://example.com/icon_40.png,2021-08-06,2023-06-07,False,29
+1041,Grill 41,False,2037.0,This is a Fast Food category,https://example.com/icon_41.png,2022-04-10,2023-10-29,True,30
+1042,Grill 42,True,4662.0,This is a Fast Food category,https://example.com/icon_42.png,2021-12-04,2024-10-19,True,7
+1043,Fast Food 43,True,7810.0,This is a Pizza category,https://example.com/icon_43.png,2021-11-25,2024-12-24,True,67
+1044,Pasta 44,False,5329.0,This is a Seafood category,https://example.com/icon_44.png,2021-01-12,2024-04-12,True,33
+1045,Vegan 45,False,7886.0,This is a Pasta category,https://example.com/icon_45.png,2020-03-06,2024-04-25,True,96
+1046,Beverages 46,False,1610.0,This is a Grill category,https://example.com/icon_46.png,2022-04-25,2024-09-28,False,74
+1047,Seafood 47,False,4819.0,This is a Appetizers category,https://example.com/icon_47.png,2022-07-01,2024-11-04,False,73
+1048,Fast Food 48,False,6824.0,This is a Soups category,https://example.com/icon_48.png,2020-12-28,2024-12-27,True,71
+1049,Grill 49,False,6958.0,This is a Beverages category,https://example.com/icon_49.png,2022-08-15,2024-07-29,False,66
+1050,BBQ 50,False,,This is a Pizza category,https://example.com/icon_50.png,2021-10-15,2023-11-30,False,41
+1051,Beverages 51,True,7897.0,This is a Salads category,https://example.com/icon_51.png,2022-04-09,2024-12-28,False,75
+1052,Fast Food 52,False,1838.0,This is a Pasta category,https://example.com/icon_52.png,2021-11-05,2023-04-29,True,86
+1053,Pizza 53,True,1322.0,This is a Pizza category,https://example.com/icon_53.png,2020-11-29,2024-11-15,True,23
+1054,Pizza 54,False,8486.0,This is a Salads category,https://example.com/icon_54.png,2021-03-20,2023-12-27,True,61
+1055,Appetizers 55,True,935.0,This is a Grill category,https://example.com/icon_55.png,2021-09-02,2023-05-29,False,99
+1056,Pizza 56,False,1370.0,This is a Soups category,https://example.com/icon_56.png,2022-05-31,2024-05-20,False,38
+1057,Desserts 57,True,4817.0,This is a Vegan category,https://example.com/icon_57.png,2021-08-20,2023-02-24,False,88
+1058,BBQ 58,True,6426.0,This is a Seafood category,https://example.com/icon_58.png,2022-12-07,2024-08-30,False,63
+1059,Appetizers 59,True,7185.0,This is a Vegan category,https://example.com/icon_59.png,2020-10-01,2023-03-02,True,50
+1060,Pasta 60,True,,This is a Main Course category,https://example.com/icon_60.png,2022-07-30,2024-01-11,False,19
+1061,Seafood 61,True,6356.0,This is a Desserts category,https://example.com/icon_61.png,2022-03-20,2024-11-23,False,86
+1062,BBQ 62,False,2751.0,This is a Appetizers category,https://example.com/icon_62.png,2021-11-17,2023-01-05,False,35
+1063,Beverages 63,False,2742.0,This is a Grill category,https://example.com/icon_63.png,2021-02-10,2024-04-10,True,33
+1064,Pizza 64,True,5983.0,This is a Grill category,https://example.com/icon_64.png,2021-01-16,2024-10-10,True,22
+1065,Soups 65,True,4714.0,This is a BBQ category,https://example.com/icon_65.png,2022-05-09,2023-03-20,True,79
+1066,Soups 66,True,1269.0,This is a Fast Food category,https://example.com/icon_66.png,2020-02-13,2024-07-23,True,14
+1067,Desserts 67,False,8314.0,This is a Pizza category,https://example.com/icon_67.png,2022-04-26,2024-08-03,True,52
+1068,Seafood 68,True,9019.0,This is a Salads category,https://example.com/icon_68.png,2020-01-08,2023-01-20,True,65
+1069,Main Course 69,True,4736.0,This is a Grill category,https://example.com/icon_69.png,2022-02-26,2024-05-14,False,1
+1070,Main Course 70,False,,This is a Appetizers category,https://example.com/icon_70.png,2020-12-04,2024-05-31,True,69
+1071,Fast Food 71,False,4987.0,This is a Vegan category,https://example.com/icon_71.png,2020-09-02,2024-06-05,False,76
+1072,Pasta 72,False,8091.0,This is a Desserts category,https://example.com/icon_72.png,2020-07-26,2023-04-29,False,83
+1073,Pizza 73,False,6339.0,This is a Grill category,https://example.com/icon_73.png,2020-08-09,2024-02-23,False,16
+1074,Main Course 74,True,85.0,This is a Grill category,https://example.com/icon_74.png,2021-06-28,2024-06-01,False,81
+1075,Appetizers 75,True,9211.0,This is a Grill category,https://example.com/icon_75.png,2021-05-23,2023-06-10,True,2
+1076,BBQ 76,True,9089.0,This is a Salads category,https://example.com/icon_76.png,2021-07-03,2024-05-20,True,84
+1077,Pasta 77,False,9207.0,This is a Main Course category,https://example.com/icon_77.png,2022-04-17,2023-03-05,True,9
+1078,Soups 78,True,6323.0,This is a Pizza category,https://example.com/icon_78.png,2021-12-04,2024-12-19,True,46
+1079,BBQ 79,False,7917.0,This is a Main Course category,https://example.com/icon_79.png,2022-06-09,2023-03-28,True,74
+1080,Desserts 80,True,,This is a Pasta category,https://example.com/icon_80.png,2022-06-28,2024-11-27,True,55
+1081,Grill 81,False,6380.0,This is a BBQ category,https://example.com/icon_81.png,2022-02-04,2024-06-17,False,24
+1082,Main Course 82,True,9524.0,This is a Pasta category,https://example.com/icon_82.png,2022-10-21,2024-04-28,True,94
+1083,Pasta 83,False,6967.0,This is a Soups category,https://example.com/icon_83.png,2020-01-19,2024-10-16,True,68
+1084,Pasta 84,False,6775.0,This is a Appetizers category,https://example.com/icon_84.png,2020-10-18,2024-03-18,True,83
+1085,Soups 85,True,1729.0,This is a Pasta category,https://example.com/icon_85.png,2022-09-10,2023-01-28,True,40
+1086,BBQ 86,True,9006.0,This is a Fast Food category,https://example.com/icon_86.png,2022-01-13,2024-03-20,True,23
+1087,Beverages 87,True,2658.0,This is a Fast Food category,https://example.com/icon_87.png,2020-09-21,2023-10-19,False,35
+1088,Main Course 88,True,3775.0,This is a Pizza category,https://example.com/icon_88.png,2022-08-26,2023-08-18,False,52
+1089,Vegan 89,True,3671.0,This is a Main Course category,https://example.com/icon_89.png,2020-07-10,2023-03-25,True,13
+1090,Pasta 90,False,,This is a Beverages category,https://example.com/icon_90.png,2020-02-26,2024-10-15,False,76
+1091,Pizza 91,True,8534.0,This is a Pasta category,https://example.com/icon_91.png,2022-06-06,2024-01-01,True,21
+1092,Pizza 92,False,5616.0,This is a Vegan category,https://example.com/icon_92.png,2022-10-31,2023-07-17,False,10
+1093,Seafood 93,True,3879.0,This is a Fast Food category,https://example.com/icon_93.png,2021-05-26,2024-05-10,False,81
+1094,Grill 94,True,5454.0,This is a Pizza category,https://example.com/icon_94.png,2022-07-09,2023-11-04,True,72
+1095,Fast Food 95,True,226.0,This is a Appetizers category,https://example.com/icon_95.png,2022-06-05,2024-01-11,False,32
+1096,Seafood 96,False,2436.0,This is a Pizza category,https://example.com/icon_96.png,2020-10-11,2023-11-10,True,36
+1097,Grill 97,False,986.0,This is a Appetizers category,https://example.com/icon_97.png,2021-03-20,2023-12-24,False,72
+1098,Pizza 98,False,1365.0,This is a Appetizers category,https://example.com/icon_98.png,2021-08-19,2024-11-15,True,95
+1099,Appetizers 99,True,4732.0,This is a Appetizers category,https://example.com/icon_99.png,2020-01-12,2023-05-11,True,88
+1100,Beverages 100,True,,This is a Main Course category,https://example.com/icon_100.png,2021-11-07,2023-01-06,True,14
+1101,Salads 101,True,7740.0,This is a Grill category,https://example.com/icon_101.png,2020-01-23,2024-04-24,False,11
+1102,Fast Food 102,False,2659.0,This is a Soups category,https://example.com/icon_102.png,2020-01-30,2024-08-09,False,21
+1103,Desserts 103,False,5137.0,This is a Salads category,https://example.com/icon_103.png,2021-10-20,2023-03-10,False,6
+1104,BBQ 104,True,2434.0,This is a Fast Food category,https://example.com/icon_104.png,2022-08-16,2024-02-28,False,47
+1105,Salads 105,False,1427.0,This is a Soups category,https://example.com/icon_105.png,2020-11-07,2023-07-21,False,50
+1106,BBQ 106,False,1266.0,This is a Vegan category,https://example.com/icon_106.png,2020-06-13,2023-11-14,True,55
+1107,Soups 107,True,5114.0,This is a Pizza category,https://example.com/icon_107.png,2022-12-26,2024-05-06,True,44
+1108,BBQ 108,True,6713.0,This is a Seafood category,https://example.com/icon_108.png,2020-10-16,2024-07-10,False,3
+1109,Seafood 109,False,7059.0,This is a Vegan category,https://example.com/icon_109.png,2020-07-07,2024-10-01,True,56
+1110,Pizza 110,True,,This is a Vegan category,https://example.com/icon_110.png,2020-05-05,2023-06-28,False,97
+1111,Soups 111,False,7528.0,This is a Grill category,https://example.com/icon_111.png,2020-08-13,2023-04-28,False,38
+1112,Pizza 112,False,4507.0,This is a Pasta category,https://example.com/icon_112.png,2020-11-16,2024-07-21,False,45
+1113,Beverages 113,False,6972.0,This is a Beverages category,https://example.com/icon_113.png,2020-08-17,2023-10-13,False,1
+1114,Desserts 114,False,1898.0,This is a Appetizers category,https://example.com/icon_114.png,2020-11-05,2024-08-04,False,95
+1115,Seafood 115,False,539.0,This is a Pasta category,https://example.com/icon_115.png,2021-06-03,2024-03-05,True,55
+1116,BBQ 116,True,7638.0,This is a Soups category,https://example.com/icon_116.png,2021-06-18,2023-10-14,False,18
+1117,Seafood 117,True,9779.0,This is a Seafood category,https://example.com/icon_117.png,2021-01-14,2023-04-25,True,32
+1118,Beverages 118,True,2715.0,This is a Appetizers category,https://example.com/icon_118.png,2022-01-17,2024-03-20,False,2
+1119,Grill 119,True,3238.0,This is a Beverages category,https://example.com/icon_119.png,2022-09-16,2024-08-13,True,93
+1120,Fast Food 120,True,,This is a Desserts category,https://example.com/icon_120.png,2021-12-12,2024-06-03,True,54
+1121,Main Course 121,False,775.0,This is a Main Course category,https://example.com/icon_121.png,2022-08-05,2023-05-12,False,3
+1122,Salads 122,True,7029.0,This is a Beverages category,https://example.com/icon_122.png,2020-06-11,2024-11-11,False,32
+1123,Appetizers 123,True,9834.0,This is a Salads category,https://example.com/icon_123.png,2020-06-28,2024-05-15,True,99
+1124,Beverages 124,True,7920.0,This is a Beverages category,https://example.com/icon_124.png,2022-11-19,2023-10-16,True,69
+1125,Fast Food 125,False,5502.0,This is a Fast Food category,https://example.com/icon_125.png,2022-06-09,2024-02-23,True,11
+1126,Fast Food 126,False,9314.0,This is a Seafood category,https://example.com/icon_126.png,2021-10-26,2023-02-01,True,54
+1127,Appetizers 127,True,7978.0,This is a Appetizers category,https://example.com/icon_127.png,2020-03-31,2023-05-20,True,29
+1128,Grill 128,False,2138.0,This is a Desserts category,https://example.com/icon_128.png,2022-09-08,2024-03-31,False,96
+1129,Beverages 129,False,4604.0,This is a Beverages category,https://example.com/icon_129.png,2022-05-11,2023-09-11,False,84
+1130,Pizza 130,True,,This is a Vegan category,https://example.com/icon_130.png,2021-11-02,2024-08-06,False,91

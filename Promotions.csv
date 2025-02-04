@@ -1,0 +1,1001 @@
+promotion_id,restaurant_id,promotion_name,discount_percentage,valid_from,valid_until,min_order_value,max_discount,terms_conditions,is_active
+PROMO00001,Chipotle_64362,Holiday Discount,13.16,2020-01-05,2028-10-31,45.99,92.14,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00002,Chili's_569,Special Deal,14.25,2023-05-24,2029-06-20,82.79,20.79,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00003,The_66730,Holiday Discount,17.93,2024-01-09,2025-09-12,12.32,68.67,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00004,Red_72826,Special Deal,25.19,2023-02-17,2026-04-16,51.47,46.26,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00005,Buffalo_80774,Festive Sale,40.05,2022-01-28,2029-01-08,27.26,91.78,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00006,Panera_47048,Festive Sale,42.72,2021-08-17,2028-09-15,38.78,56.83,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00007,Texas_30547,Special Deal,5.57,2024-08-15,2027-05-21,54.26,7.21,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00008,The_64300,Holiday Discount,36.64,2022-03-22,2026-04-12,98.25,20.45,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00009,Outback_4905,Special Deal,45.2,2020-10-29,2028-10-14,15.32,31.96,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00010,Buffalo_98014,Holiday Discount,26.49,2020-11-09,2027-01-26,52.86,60.85,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00011,Olive_67661,Limited Time Offer,49.13,2021-01-13,2029-09-12,96.37,77.8,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00012,Texas_72317,Special Deal,30.17,2023-10-12,2025-03-28,38.02,5.75,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00013,The_9040,Special Deal,24.24,2020-01-05,2027-09-17,76.1,56.12,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00014,Chili's_53849,Special Deal,31.56,2021-04-26,2026-08-14,45.67,28.57,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00015,Chipotle_52742,Holiday Discount,13.57,2023-02-21,2026-02-28,83.7,41.18,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00016,Chili's_75449,Weekend Offer,39.3,2021-04-25,2026-09-03,77.46,12.49,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00017,The_33860,Holiday Discount,35.03,2020-07-31,2026-01-03,24.05,14.11,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00018,Chipotle_64752,Weekend Offer,39.73,2023-02-04,2027-06-03,45.54,84.57,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00019,Outback_60075,Special Deal,44.32,2020-06-10,2029-03-03,80.4,77.86,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00020,Chili's_16759,Weekend Offer,30.45,2023-07-09,2026-09-07,63.82,89.33,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00021,Texas_39257,Weekend Offer,41.0,2024-07-04,2025-02-23,92.55,75.97,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00022,Chili's_54339,Weekend Offer,46.86,2021-05-16,2025-11-12,34.86,58.93,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00023,Chipotle_95582,Weekend Offer,30.85,2023-01-28,2026-05-16,53.86,49.87,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00024,The_88240,Holiday Discount,20.33,2020-02-21,2029-08-12,64.83,51.65,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00025,Red_6466,Special Deal,10.0,2023-12-13,2025-02-10,52.3,44.03,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00026,Chili's_54229,Weekend Offer,37.05,2024-01-25,2027-11-14,48.88,78.73,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00027,Buffalo_85834,Limited Time Offer,22.17,2020-06-22,2025-09-03,38.65,71.21,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00028,Buffalo_89304,Festive Sale,22.13,2023-11-20,2028-03-24,26.81,37.3,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00029,Chipotle_52722,Weekend Offer,48.84,2024-03-02,2025-04-03,57.78,58.16,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00030,Red_68836,Festive Sale,49.87,2020-12-31,2029-10-05,77.15,54.24,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00031,Panera_57178,Festive Sale,33.47,2020-05-15,2028-03-18,11.68,81.97,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00032,Red_44466,Limited Time Offer,34.31,2020-08-01,2026-09-24,50.4,43.7,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00033,Red_70036,Holiday Discount,24.21,2024-06-21,2025-09-19,85.24,48.91,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00034,P.F._95893,Weekend Offer,12.19,2022-08-28,2025-11-02,12.68,49.34,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00035,Texas_22967,Special Deal,39.62,2023-05-11,2026-03-19,26.62,47.43,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00036,Outback_25085,Weekend Offer,17.31,2024-07-17,2028-07-09,21.42,21.27,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00037,Chipotle_1292,Holiday Discount,15.49,2022-11-24,2026-05-15,85.58,77.05,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00038,The_62170,Limited Time Offer,38.02,2023-05-21,2029-02-04,18.41,94.69,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00039,Buffalo_31224,Festive Sale,22.06,2022-03-18,2027-06-18,94.69,42.42,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00040,Chipotle_42142,Limited Time Offer,8.0,2023-08-25,2025-08-22,96.57,11.15,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00041,Red_94486,Holiday Discount,41.54,2023-11-29,2027-04-04,70.62,23.33,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00042,Buffalo_38524,Festive Sale,10.31,2020-03-16,2025-05-21,95.66,16.87,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00043,Red_3826,Festive Sale,42.81,2023-08-31,2029-05-30,76.64,17.23,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00044,Texas_91977,Holiday Discount,24.47,2020-01-12,2025-07-22,57.71,76.88,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00045,P.F._14913,Weekend Offer,20.15,2021-12-10,2025-06-22,98.35,97.07,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00046,Buffalo_41724,Festive Sale,21.92,2023-01-27,2026-07-25,18.62,35.83,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00047,Outback_78245,Festive Sale,7.94,2023-08-09,2025-08-12,43.12,24.68,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00048,P.F._64713,Special Deal,39.03,2022-09-23,2029-01-11,26.89,46.74,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00049,Texas_68537,Weekend Offer,44.17,2023-10-03,2029-12-21,82.44,47.26,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00050,Chili's_22729,Limited Time Offer,39.08,2023-05-06,2027-01-15,67.29,57.43,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00051,Chipotle_53152,Festive Sale,27.33,2023-01-10,2029-09-11,88.52,75.9,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00052,Panera_3438,Special Deal,10.16,2024-10-27,2025-09-16,44.18,67.73,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00053,Texas_69167,Weekend Offer,28.95,2021-10-28,2026-02-23,46.66,33.44,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00054,Buffalo_7694,Holiday Discount,37.12,2022-02-01,2027-12-12,52.36,20.68,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00055,Chili's_39309,Limited Time Offer,11.0,2020-04-12,2025-06-23,91.04,86.42,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00056,Chipotle_91812,Festive Sale,16.53,2023-10-16,2029-04-06,16.99,18.85,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00057,Panera_1968,Weekend Offer,41.06,2020-09-26,2027-03-08,26.16,64.05,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00058,Olive_86611,Festive Sale,38.8,2023-02-15,2027-02-11,97.11,40.24,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00059,The_64100,Limited Time Offer,39.12,2024-05-22,2029-11-10,57.12,42.83,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00060,Buffalo_44134,Special Deal,26.15,2022-10-18,2025-12-31,88.23,81.58,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00061,Texas_9727,Special Deal,46.29,2023-06-01,2027-12-30,44.84,23.5,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00062,The_87760,Weekend Offer,17.91,2024-06-15,2028-02-10,20.88,73.64,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00063,Buffalo_97204,Holiday Discount,40.69,2023-07-04,2029-12-31,80.95,70.15,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00064,Outback_36425,Limited Time Offer,25.59,2020-10-08,2025-12-12,76.72,70.63,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00065,Panera_21298,Special Deal,46.14,2021-09-20,2025-09-14,99.92,95.53,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00066,Texas_36097,Limited Time Offer,24.31,2021-04-18,2027-11-27,41.13,67.48,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00067,The_75430,Holiday Discount,35.35,2024-07-02,2025-04-13,78.65,92.69,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00068,The_75380,Limited Time Offer,11.96,2024-02-12,2028-01-23,72.07,41.99,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00069,The_7140,Special Deal,43.42,2024-04-05,2028-10-23,44.55,70.68,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00070,Chipotle_97562,Holiday Discount,48.7,2023-10-03,2027-09-04,71.17,16.78,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00071,Panera_33398,Weekend Offer,32.83,2021-02-26,2026-11-12,69.11,50.52,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00072,Texas_16537,Festive Sale,7.01,2020-12-11,2027-11-13,68.52,66.53,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00073,P.F._22923,Festive Sale,46.53,2021-07-07,2025-12-29,48.06,8.94,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00074,P.F._20953,Holiday Discount,46.74,2024-10-27,2026-05-31,30.52,23.3,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00075,Olive_63121,Limited Time Offer,21.68,2021-09-05,2027-08-17,42.4,94.34,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00076,Chili's_20729,Limited Time Offer,6.95,2021-12-15,2025-05-12,91.46,8.38,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00077,Outback_59595,Festive Sale,37.63,2023-06-03,2029-04-25,94.79,20.13,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00078,Buffalo_7134,Holiday Discount,20.62,2020-11-27,2026-02-11,37.71,17.34,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00079,Olive_50441,Limited Time Offer,30.72,2024-01-28,2027-07-18,51.81,37.35,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00080,Outback_43965,Festive Sale,34.88,2024-03-18,2029-12-27,93.95,39.96,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00081,Buffalo_92734,Limited Time Offer,28.27,2022-10-27,2028-03-26,79.53,88.67,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00082,Buffalo_72294,Festive Sale,44.82,2023-02-09,2027-05-11,19.19,24.93,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00083,Chipotle_80992,Weekend Offer,36.94,2021-04-15,2026-01-31,31.06,56.48,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00084,Panera_39288,Special Deal,18.06,2022-06-06,2029-10-14,72.67,81.69,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00085,Red_60746,Limited Time Offer,33.57,2022-11-01,2029-04-20,25.11,28.45,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00086,Outback_63625,Weekend Offer,46.72,2024-08-11,2028-07-29,22.09,14.33,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00087,Red_79776,Weekend Offer,42.59,2022-12-03,2028-08-01,82.35,93.4,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00088,Chili's_62839,Limited Time Offer,31.64,2022-05-23,2027-02-03,49.46,81.95,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00089,Olive_72791,Limited Time Offer,10.3,2024-06-30,2028-10-19,82.6,18.92,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00090,Outback_67685,Limited Time Offer,15.25,2020-03-15,2028-12-20,61.23,30.59,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00091,Texas_20457,Weekend Offer,10.88,2024-08-05,2028-09-01,36.88,66.01,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00092,P.F._26903,Special Deal,11.58,2021-06-11,2029-07-18,85.49,98.12,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00093,Olive_10741,Limited Time Offer,21.33,2021-12-28,2027-02-10,71.7,90.47,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00094,Buffalo_7964,Special Deal,19.51,2021-04-22,2028-11-11,79.02,78.76,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00095,Panera_48728,Special Deal,46.14,2022-01-07,2028-11-20,75.53,58.9,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00096,Olive_97461,Holiday Discount,46.97,2022-10-30,2027-01-07,50.49,97.26,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00097,Red_70376,Festive Sale,21.42,2021-12-18,2028-09-09,48.12,72.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00098,Outback_88795,Holiday Discount,29.96,2023-02-27,2028-09-23,99.2,39.27,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00099,Red_99616,Festive Sale,15.52,2021-04-10,2028-07-13,93.63,45.88,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00100,Panera_71448,Festive Sale,40.42,2023-03-17,2025-02-24,90.01,54.47,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00101,Olive_79981,Limited Time Offer,19.99,2022-08-01,2027-11-29,59.92,15.59,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00102,Texas_13537,Festive Sale,46.86,2021-02-19,2025-08-21,88.77,57.58,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00103,Buffalo_48624,Festive Sale,5.11,2021-03-25,2026-08-22,65.55,40.76,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00104,Chipotle_2062,Weekend Offer,41.43,2020-11-08,2025-08-02,43.28,66.55,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00105,Buffalo_39614,Weekend Offer,29.08,2021-06-01,2029-10-03,87.64,58.43,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00106,Panera_29008,Holiday Discount,26.52,2022-12-02,2027-01-19,42.3,87.26,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00107,Texas_26837,Limited Time Offer,19.45,2021-10-28,2025-07-11,24.1,59.13,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00108,Red_51036,Holiday Discount,16.21,2024-04-21,2028-05-22,17.18,41.04,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00109,Red_49376,Festive Sale,16.15,2021-03-25,2028-11-01,82.52,21.54,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00110,The_26840,Holiday Discount,48.71,2020-08-08,2027-10-27,85.23,64.56,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00111,Chipotle_54832,Weekend Offer,32.31,2020-05-05,2025-03-21,90.99,13.35,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00112,Olive_31301,Special Deal,47.18,2024-06-03,2028-03-16,13.07,71.8,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00113,Outback_15335,Special Deal,35.65,2021-12-06,2029-10-30,47.49,73.84,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00114,P.F._89703,Weekend Offer,5.38,2023-02-27,2029-10-18,84.53,21.59,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00115,Texas_4677,Weekend Offer,20.93,2022-03-10,2029-09-28,49.41,5.51,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00116,P.F._89673,Limited Time Offer,21.89,2022-06-02,2029-05-31,51.04,81.93,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00117,Chili's_83319,Special Deal,7.39,2023-12-20,2025-12-11,44.47,95.29,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00118,Panera_27768,Festive Sale,32.97,2022-06-30,2027-12-14,58.5,58.91,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00119,P.F._86043,Holiday Discount,35.99,2021-10-29,2028-12-16,40.46,65.45,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00120,The_39880,Holiday Discount,22.38,2023-09-25,2025-04-19,96.6,50.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00121,Chili's_45429,Festive Sale,27.87,2022-09-28,2026-04-06,62.47,58.05,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00122,Chipotle_15042,Special Deal,42.9,2024-10-01,2029-03-20,21.06,74.31,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00123,Red_41716,Limited Time Offer,25.92,2020-10-05,2029-03-09,91.06,93.34,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00124,Chipotle_18532,Special Deal,43.32,2022-11-28,2026-11-17,13.77,43.65,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00125,The_38040,Special Deal,16.97,2024-07-21,2027-12-11,41.61,49.27,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00126,Olive_78801,Special Deal,35.21,2022-11-06,2028-07-16,94.14,60.68,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00127,P.F._10483,Holiday Discount,37.74,2021-04-16,2027-11-01,86.78,96.62,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00128,Red_66516,Special Deal,25.17,2021-01-09,2026-11-04,69.84,33.94,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00129,Chili's_27119,Festive Sale,8.12,2021-12-03,2027-09-19,62.85,28.6,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00130,The_55810,Holiday Discount,19.46,2023-03-02,2029-07-23,76.71,30.75,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00131,Buffalo_17034,Limited Time Offer,14.05,2023-09-06,2026-04-11,23.43,75.05,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00132,Chipotle_92262,Festive Sale,43.47,2021-02-25,2026-08-06,50.28,99.66,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00133,Panera_34488,Weekend Offer,42.46,2024-06-08,2025-03-19,33.21,47.0,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00134,Red_84626,Limited Time Offer,17.69,2020-01-19,2026-12-17,92.38,74.65,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00135,Olive_76741,Holiday Discount,41.43,2023-09-10,2026-07-22,59.2,69.72,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00136,Olive_40881,Limited Time Offer,30.52,2024-03-22,2026-07-02,73.92,50.05,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00137,Texas_10667,Holiday Discount,16.24,2020-06-11,2025-09-12,76.08,17.65,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00138,Panera_71718,Weekend Offer,7.02,2021-01-19,2028-04-09,46.64,93.38,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00139,Chili's_23479,Weekend Offer,40.28,2020-03-31,2027-09-12,97.41,84.75,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00140,Red_39296,Holiday Discount,37.99,2024-03-01,2027-05-06,45.2,12.54,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00141,The_850,Festive Sale,37.75,2023-09-05,2028-09-22,15.08,86.9,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00142,The_99030,Weekend Offer,35.67,2021-10-12,2028-07-23,95.37,68.62,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00143,Buffalo_59554,Weekend Offer,28.24,2022-05-27,2029-06-01,50.1,58.97,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00144,Buffalo_14144,Limited Time Offer,32.28,2020-11-18,2028-01-20,16.25,39.0,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00145,Chili's_419,Special Deal,34.06,2023-11-25,2025-04-06,93.98,64.68,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00146,Chili's_36919,Holiday Discount,7.89,2024-01-19,2026-11-20,13.74,94.21,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00147,Olive_56441,Special Deal,10.0,2022-03-12,2026-03-28,69.0,49.76,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00148,Buffalo_23694,Festive Sale,12.36,2022-01-14,2025-02-08,31.22,55.0,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00149,Texas_47687,Festive Sale,6.59,2020-11-21,2027-02-22,21.29,35.82,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00150,Chipotle_52602,Special Deal,10.35,2024-11-24,2028-02-09,32.42,58.59,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00151,Chipotle_59242,Weekend Offer,32.18,2021-04-18,2025-10-15,88.77,63.48,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00152,Chili's_86279,Holiday Discount,33.46,2020-10-23,2026-12-14,62.62,5.32,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00153,Red_40366,Limited Time Offer,11.33,2020-04-21,2028-10-25,85.21,78.5,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00154,The_17240,Holiday Discount,27.62,2022-01-09,2028-09-07,86.28,24.82,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00155,P.F._44173,Special Deal,39.27,2021-08-23,2026-09-05,58.09,83.75,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00156,Red_13126,Special Deal,19.96,2022-09-25,2027-06-03,16.89,8.93,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00157,Panera_35818,Limited Time Offer,6.53,2022-06-29,2027-11-22,56.97,60.51,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00158,Outback_40225,Special Deal,38.3,2020-12-26,2027-02-15,12.38,68.1,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00159,Chili's_94099,Weekend Offer,17.82,2024-08-16,2029-11-26,18.64,92.06,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00160,Red_27436,Holiday Discount,10.19,2024-01-20,2026-11-21,95.09,12.49,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00161,The_7170,Limited Time Offer,42.3,2024-08-18,2026-07-31,69.83,85.39,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00162,Olive_11801,Holiday Discount,24.79,2022-12-27,2027-07-04,10.34,47.1,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00163,Texas_20167,Festive Sale,45.14,2024-04-23,2026-06-03,38.41,14.01,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00164,Chili's_54679,Limited Time Offer,36.56,2022-01-05,2026-04-13,67.45,12.83,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00165,Chili's_14009,Special Deal,47.21,2021-06-28,2029-08-31,43.11,66.7,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00166,P.F._45733,Holiday Discount,32.52,2022-03-30,2029-05-15,24.74,78.05,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00167,Red_14306,Festive Sale,38.48,2024-09-14,2027-11-01,23.93,87.48,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00168,The_12720,Festive Sale,34.45,2021-09-07,2026-06-14,19.45,80.69,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00169,Panera_64848,Limited Time Offer,47.35,2023-11-21,2028-12-25,22.96,59.15,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00170,Chili's_16779,Weekend Offer,39.77,2023-09-28,2029-05-12,14.37,86.28,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00171,Chili's_29329,Holiday Discount,48.14,2020-06-26,2025-08-26,43.96,31.96,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00172,Texas_41127,Holiday Discount,9.94,2020-01-13,2027-02-18,92.13,69.11,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00173,Texas_54247,Limited Time Offer,8.22,2022-05-13,2028-11-08,56.63,47.29,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00174,Chili's_68699,Holiday Discount,29.69,2021-11-02,2025-10-18,30.27,52.02,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00175,The_54770,Weekend Offer,26.19,2024-04-19,2025-12-12,36.0,13.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00176,The_28170,Special Deal,16.92,2021-11-02,2026-03-16,67.59,28.4,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00177,Outback_62995,Holiday Discount,33.28,2024-05-14,2026-05-06,91.07,74.7,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00178,Panera_16298,Special Deal,46.31,2024-05-21,2029-05-22,28.96,72.37,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00179,Chili's_73519,Weekend Offer,6.87,2024-02-18,2026-05-03,77.62,65.81,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00180,Outback_88755,Special Deal,37.69,2022-06-01,2028-10-09,74.45,60.2,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00181,Buffalo_20974,Festive Sale,13.13,2021-10-27,2025-09-01,45.95,58.92,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00182,Panera_92248,Special Deal,35.67,2022-03-04,2026-09-25,88.02,61.3,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00183,P.F._38373,Limited Time Offer,13.99,2022-02-22,2029-06-26,39.92,13.4,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00184,Panera_86718,Festive Sale,38.37,2020-04-16,2025-08-29,46.85,61.3,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00185,P.F._7553,Festive Sale,49.4,2022-10-21,2028-12-18,93.58,87.95,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00186,Panera_54508,Weekend Offer,26.99,2024-12-14,2027-02-19,69.27,65.45,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00187,Chipotle_67262,Special Deal,22.07,2021-05-21,2025-10-20,39.01,72.7,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00188,Olive_85931,Special Deal,16.13,2022-11-29,2025-11-11,16.07,48.52,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00189,P.F._78933,Festive Sale,17.06,2023-03-25,2025-11-14,36.75,83.11,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00190,Olive_45601,Special Deal,30.79,2021-11-17,2029-05-14,59.11,78.71,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00191,Chili's_7439,Holiday Discount,41.35,2021-06-11,2027-01-27,31.81,26.04,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00192,Chili's_27509,Limited Time Offer,11.89,2023-06-21,2025-07-27,46.06,70.87,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00193,Olive_14941,Holiday Discount,23.55,2020-02-01,2028-02-24,65.51,46.55,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00194,Texas_45727,Weekend Offer,48.19,2020-08-18,2029-07-13,46.59,49.08,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00195,P.F._59493,Holiday Discount,18.35,2022-09-17,2028-09-24,83.72,17.7,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00196,Outback_54975,Special Deal,22.53,2021-11-07,2028-12-19,14.61,9.22,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00197,Chili's_80679,Holiday Discount,31.45,2024-11-17,2029-08-31,13.25,20.09,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00198,Panera_98858,Special Deal,38.86,2023-02-27,2027-06-17,14.99,50.13,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00199,Texas_37437,Special Deal,19.19,2023-09-25,2026-05-19,55.79,31.82,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00200,Chili's_11529,Special Deal,15.28,2021-04-18,2025-06-22,65.92,50.78,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00201,Olive_36811,Weekend Offer,34.85,2020-01-16,2029-12-02,65.54,33.03,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00202,Chili's_83059,Special Deal,25.69,2022-07-17,2027-11-29,37.71,85.79,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00203,P.F._64323,Special Deal,12.49,2024-07-05,2025-02-19,63.41,7.5,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00204,Chili's_94199,Limited Time Offer,34.91,2020-01-06,2028-12-14,15.65,10.99,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00205,The_94810,Weekend Offer,26.65,2021-08-18,2026-02-25,23.72,86.24,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00206,Panera_92478,Limited Time Offer,45.8,2020-05-25,2027-06-01,59.98,50.48,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00207,Panera_77028,Special Deal,37.88,2024-01-07,2029-10-10,73.62,84.11,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00208,P.F._94363,Weekend Offer,24.59,2023-01-05,2028-07-31,19.35,70.9,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00209,Texas_75577,Weekend Offer,9.09,2021-10-29,2027-02-28,19.92,59.07,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00210,Buffalo_55004,Weekend Offer,25.13,2023-04-10,2029-12-13,63.61,19.71,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00211,Buffalo_82374,Festive Sale,37.65,2020-02-06,2029-03-10,90.11,35.67,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00212,Red_25166,Limited Time Offer,19.88,2022-04-15,2025-11-14,55.11,83.25,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00213,Outback_93105,Limited Time Offer,6.45,2022-07-22,2027-12-29,96.48,26.63,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00214,Chipotle_65802,Weekend Offer,19.02,2024-09-13,2025-09-04,73.68,47.96,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00215,Texas_65407,Festive Sale,32.15,2023-09-22,2029-03-02,77.91,50.47,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00216,Outback_35145,Limited Time Offer,23.57,2020-10-03,2029-03-21,84.68,60.84,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00217,Outback_96805,Holiday Discount,41.33,2023-10-21,2027-11-03,13.08,96.85,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00218,Texas_93647,Weekend Offer,28.97,2024-01-23,2029-11-02,85.35,5.21,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00219,Olive_60511,Holiday Discount,17.39,2023-01-26,2026-02-21,84.7,86.52,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00220,Panera_7758,Holiday Discount,25.25,2021-03-03,2025-12-04,86.33,79.48,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00221,Red_9666,Weekend Offer,47.68,2021-06-07,2028-12-28,63.54,31.99,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00222,Texas_6187,Special Deal,28.98,2024-12-28,2025-04-10,30.22,46.64,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00223,Chili's_13549,Holiday Discount,45.56,2020-07-02,2027-07-02,36.49,51.63,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00224,Chipotle_67222,Holiday Discount,5.0,2020-10-24,2026-11-11,44.2,93.28,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00225,Chipotle_44762,Limited Time Offer,25.91,2021-09-10,2025-08-08,66.36,18.66,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00226,Chili's_77009,Limited Time Offer,6.37,2021-11-01,2029-10-23,92.42,81.97,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00227,Panera_5828,Special Deal,25.77,2022-03-08,2029-05-07,14.49,94.64,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00228,Red_85436,Festive Sale,16.94,2021-03-29,2025-02-28,55.38,99.94,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00229,Red_37066,Weekend Offer,14.17,2023-01-25,2027-06-10,35.22,9.59,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00230,Olive_45551,Holiday Discount,20.21,2020-07-11,2028-04-19,84.02,69.05,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00231,Chili's_10219,Holiday Discount,11.99,2021-06-16,2029-09-26,51.17,96.86,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00232,Chipotle_62532,Limited Time Offer,9.67,2022-05-12,2026-10-18,34.89,56.5,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00233,Panera_83248,Holiday Discount,39.77,2023-10-27,2025-08-23,66.81,45.0,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00234,Texas_41307,Special Deal,25.51,2021-11-10,2025-08-31,14.8,47.44,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00235,The_29210,Special Deal,12.58,2020-04-27,2028-10-05,11.65,66.14,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00236,Chili's_68159,Limited Time Offer,44.14,2021-02-13,2026-12-22,88.31,34.09,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00237,P.F._93393,Holiday Discount,5.84,2020-01-06,2027-10-14,42.23,98.98,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00238,Outback_77945,Festive Sale,10.2,2023-10-07,2028-04-05,41.82,46.87,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00239,P.F._34403,Festive Sale,45.24,2024-08-24,2027-08-08,98.81,71.21,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00240,Buffalo_27384,Festive Sale,43.43,2023-07-26,2026-07-17,20.93,34.59,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00241,Olive_10211,Special Deal,30.21,2024-03-05,2027-12-07,30.11,22.27,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00242,Chipotle_83592,Limited Time Offer,14.15,2020-12-08,2028-09-21,55.73,74.07,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00243,Chipotle_33582,Special Deal,48.46,2024-11-25,2028-12-20,47.86,25.77,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00244,Chipotle_21352,Limited Time Offer,15.95,2024-08-06,2029-11-21,12.65,81.2,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00245,Outback_71385,Special Deal,43.4,2021-02-25,2026-09-15,29.07,98.77,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00246,Texas_44957,Holiday Discount,10.16,2020-07-21,2028-05-02,89.93,85.07,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00247,Red_44576,Weekend Offer,28.68,2021-12-24,2029-01-05,44.66,72.73,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00248,Outback_20185,Special Deal,40.81,2020-10-29,2026-07-09,16.22,68.02,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00249,Olive_29821,Limited Time Offer,10.56,2022-05-28,2026-11-08,32.63,77.94,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00250,Texas_11437,Holiday Discount,7.68,2022-01-13,2027-12-26,30.76,41.59,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00251,Outback_12335,Special Deal,36.95,2023-10-23,2026-12-22,41.03,81.57,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00252,Olive_50541,Holiday Discount,35.99,2023-11-13,2026-11-09,64.8,84.58,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00253,P.F._19633,Festive Sale,39.47,2020-12-31,2025-08-31,90.21,77.38,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00254,Buffalo_92304,Weekend Offer,18.5,2024-02-23,2029-08-21,35.71,40.64,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00255,The_37210,Limited Time Offer,12.7,2020-08-22,2027-12-30,98.58,77.5,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00256,Olive_31911,Weekend Offer,41.32,2020-10-24,2027-03-12,52.81,21.73,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00257,P.F._32383,Special Deal,27.12,2022-10-17,2029-12-12,51.62,23.43,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00258,P.F._28453,Weekend Offer,48.6,2020-08-14,2025-12-28,60.24,20.35,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00259,Texas_29607,Festive Sale,31.18,2022-05-31,2027-04-28,50.02,73.61,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00260,Panera_76708,Limited Time Offer,8.35,2023-12-14,2026-09-30,33.31,8.64,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00261,Texas_8447,Weekend Offer,46.12,2020-12-09,2025-03-10,62.59,33.91,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00262,The_49610,Limited Time Offer,28.7,2023-09-05,2028-06-18,21.19,90.03,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00263,Panera_28628,Holiday Discount,16.36,2021-08-08,2027-09-09,17.02,83.93,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00264,Panera_58298,Festive Sale,45.45,2023-09-11,2027-01-25,24.09,97.27,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00265,Texas_24997,Festive Sale,21.72,2020-02-01,2028-01-28,34.52,83.43,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00266,Chipotle_29342,Holiday Discount,16.09,2024-12-10,2029-11-18,16.0,65.64,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00267,Texas_94337,Weekend Offer,5.99,2023-11-26,2026-06-23,40.09,80.62,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00268,Red_86156,Limited Time Offer,11.81,2020-01-17,2025-08-28,15.95,79.22,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00269,Chili's_88109,Limited Time Offer,13.44,2023-03-31,2025-11-08,77.76,88.07,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00270,Olive_641,Holiday Discount,6.65,2020-09-20,2027-02-14,81.81,53.37,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00271,The_33710,Limited Time Offer,13.98,2021-03-29,2029-02-12,67.57,11.11,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00272,The_65070,Limited Time Offer,19.88,2024-05-10,2027-07-03,79.21,62.23,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00273,P.F._27093,Festive Sale,11.03,2021-07-03,2028-06-02,91.38,61.95,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00274,Panera_20138,Festive Sale,30.77,2021-01-12,2027-12-23,11.52,73.81,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00275,Texas_63727,Festive Sale,19.04,2020-11-13,2027-04-25,73.8,90.53,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00276,Red_34876,Limited Time Offer,44.32,2023-01-01,2029-10-18,34.95,79.15,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00277,Red_69116,Limited Time Offer,39.69,2022-01-27,2026-04-01,19.34,78.56,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00278,Outback_48095,Festive Sale,36.15,2024-12-01,2026-04-28,98.54,79.6,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00279,Olive_33881,Weekend Offer,42.57,2024-05-01,2026-01-14,54.2,32.71,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00280,P.F._21873,Festive Sale,45.66,2020-03-27,2029-10-20,35.6,22.33,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00281,Olive_97371,Holiday Discount,25.22,2021-10-08,2026-05-25,45.97,91.74,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00282,The_4630,Festive Sale,47.27,2020-11-13,2027-10-05,56.45,75.57,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00283,Texas_53347,Festive Sale,16.3,2023-01-23,2025-03-10,86.32,67.37,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00284,Panera_55278,Special Deal,42.01,2022-10-28,2028-05-14,18.76,86.97,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00285,Chipotle_43982,Holiday Discount,18.47,2022-06-06,2028-06-07,75.89,54.78,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00286,P.F._74473,Special Deal,12.32,2020-09-07,2029-11-30,93.54,28.43,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00287,Chili's_51279,Limited Time Offer,7.39,2022-11-07,2027-05-04,23.84,19.95,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00288,The_10640,Festive Sale,34.78,2023-08-04,2026-05-09,89.99,88.98,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00289,Olive_83001,Weekend Offer,15.86,2020-02-13,2027-10-13,46.55,58.02,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00290,Chili's_38439,Weekend Offer,42.09,2024-06-21,2027-12-05,23.44,50.92,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00291,Chili's_47199,Weekend Offer,28.03,2022-09-03,2027-08-06,77.72,16.84,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00292,Olive_12481,Festive Sale,7.05,2022-11-24,2029-08-06,69.96,50.5,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00293,The_12580,Limited Time Offer,37.88,2022-03-10,2027-07-16,69.98,96.45,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00294,Chili's_17709,Holiday Discount,10.13,2021-05-25,2030-01-01,42.33,12.93,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00295,Olive_87641,Holiday Discount,7.48,2023-03-11,2026-11-25,55.86,79.7,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00296,Outback_56125,Festive Sale,34.91,2022-04-05,2026-09-14,24.12,57.41,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00297,Buffalo_34404,Holiday Discount,5.51,2020-02-18,2025-11-24,16.45,57.48,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00298,Panera_21518,Festive Sale,34.05,2020-02-07,2028-09-12,22.1,10.54,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00299,Outback_37285,Festive Sale,37.07,2020-06-12,2026-04-17,79.67,71.01,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00300,Chipotle_98112,Holiday Discount,46.36,2020-12-08,2025-05-29,33.66,30.38,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00301,Texas_98687,Limited Time Offer,23.68,2020-08-12,2028-11-26,23.18,33.51,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00302,Texas_17917,Festive Sale,8.3,2020-05-04,2028-12-19,48.29,70.28,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00303,Panera_98758,Special Deal,34.23,2024-02-19,2029-11-13,46.98,64.03,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00304,P.F._62893,Limited Time Offer,17.01,2020-08-21,2029-03-21,80.97,52.35,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00305,Buffalo_9604,Festive Sale,6.56,2024-06-19,2028-06-11,28.13,61.8,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00306,The_43850,Holiday Discount,20.37,2023-10-31,2028-05-18,49.8,91.09,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00307,Olive_57611,Limited Time Offer,15.08,2020-09-13,2028-05-17,31.06,29.8,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00308,The_52320,Holiday Discount,21.24,2022-11-12,2025-02-21,61.4,70.61,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00309,Olive_81311,Weekend Offer,42.0,2021-08-09,2028-03-28,43.2,14.96,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00310,Panera_94208,Holiday Discount,36.81,2022-01-09,2026-12-29,51.89,76.88,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00311,Olive_71341,Special Deal,24.71,2022-01-08,2026-06-20,28.56,75.45,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00312,Panera_33118,Holiday Discount,12.73,2021-06-27,2026-12-10,16.49,55.25,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00313,Panera_18508,Limited Time Offer,34.94,2020-04-03,2029-08-13,87.65,76.76,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00314,P.F._34353,Special Deal,19.01,2023-06-09,2026-04-04,63.06,30.56,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00315,Texas_91467,Holiday Discount,43.44,2022-02-18,2029-07-04,89.07,88.58,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00316,Texas_53087,Limited Time Offer,19.95,2023-04-16,2027-01-06,34.45,86.74,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00317,Chipotle_82112,Weekend Offer,17.0,2023-05-16,2029-01-04,35.62,79.18,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00318,Outback_52015,Special Deal,44.51,2024-07-09,2025-05-01,84.44,9.12,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00319,Red_47256,Limited Time Offer,16.18,2020-08-08,2029-04-18,52.43,32.99,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00320,Outback_14535,Limited Time Offer,7.82,2020-01-01,2027-12-05,50.59,88.47,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00321,Texas_86777,Weekend Offer,12.33,2022-08-21,2028-08-25,41.46,90.3,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00322,Red_76546,Limited Time Offer,38.32,2021-01-27,2028-11-22,65.8,79.8,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00323,Texas_60567,Holiday Discount,12.47,2023-02-06,2025-10-18,85.05,64.74,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00324,Outback_38325,Weekend Offer,22.72,2020-02-28,2026-08-03,89.49,18.89,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00325,Texas_66647,Festive Sale,39.36,2024-05-02,2028-11-12,54.3,42.43,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00326,P.F._88463,Holiday Discount,27.56,2024-11-13,2029-05-10,81.32,67.83,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00327,P.F._84573,Special Deal,33.98,2022-06-29,2027-08-06,80.85,77.33,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00328,Outback_61735,Weekend Offer,5.15,2021-05-19,2028-06-21,88.99,43.5,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00329,Chipotle_53042,Festive Sale,23.85,2020-12-29,2029-01-31,73.66,47.47,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00330,Chipotle_97462,Limited Time Offer,6.38,2020-10-17,2027-08-20,99.05,10.57,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00331,Panera_6828,Special Deal,23.08,2022-04-09,2029-11-28,32.76,60.96,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00332,The_12470,Festive Sale,15.5,2024-03-09,2028-08-16,32.63,12.93,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00333,Chipotle_51762,Festive Sale,47.98,2023-04-13,2025-12-05,42.18,94.78,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00334,Panera_25308,Limited Time Offer,19.25,2021-08-29,2028-12-13,77.99,62.4,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00335,P.F._21183,Festive Sale,38.54,2021-12-13,2027-08-17,26.9,90.88,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00336,P.F._69153,Special Deal,17.28,2024-11-02,2027-09-24,70.09,6.82,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00337,Panera_47938,Limited Time Offer,11.18,2023-09-23,2028-12-17,50.49,56.41,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00338,Chili's_72269,Holiday Discount,28.69,2022-03-08,2028-03-15,97.33,72.84,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00339,Buffalo_81564,Holiday Discount,33.83,2024-09-21,2026-12-07,93.34,5.96,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00340,Texas_78007,Holiday Discount,41.08,2021-08-10,2029-05-12,17.55,13.87,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00341,P.F._33803,Festive Sale,10.43,2020-02-03,2025-08-24,42.52,19.82,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00342,Panera_8078,Weekend Offer,34.38,2024-07-21,2028-10-18,19.94,19.52,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00343,The_17680,Limited Time Offer,46.27,2022-05-08,2028-03-04,16.45,13.27,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00344,Chili's_70039,Weekend Offer,36.73,2023-08-06,2026-03-20,41.53,9.16,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00345,P.F._51513,Special Deal,24.39,2022-07-08,2026-10-11,64.29,54.86,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00346,The_16580,Holiday Discount,13.08,2020-09-09,2027-04-17,37.23,65.77,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00347,Olive_69191,Holiday Discount,9.72,2023-09-04,2026-12-20,12.85,98.62,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00348,Chipotle_69622,Festive Sale,11.38,2023-06-01,2029-04-10,68.82,80.07,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00349,Panera_25428,Limited Time Offer,43.57,2021-04-06,2026-03-03,36.28,40.69,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00350,Panera_31358,Limited Time Offer,8.5,2024-01-25,2027-08-12,33.17,43.84,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00351,Chipotle_6922,Limited Time Offer,27.94,2022-10-10,2029-07-13,49.82,59.93,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00352,Red_52556,Festive Sale,40.06,2024-03-30,2028-07-02,10.34,89.31,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00353,Panera_80708,Limited Time Offer,43.12,2022-06-20,2027-11-29,24.27,74.05,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00354,P.F._54243,Limited Time Offer,11.39,2020-12-09,2029-10-31,29.66,40.38,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00355,Outback_6015,Festive Sale,7.44,2024-08-22,2025-02-23,74.9,54.84,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00356,Chipotle_67412,Festive Sale,48.53,2020-05-15,2025-10-07,70.66,55.91,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00357,Chipotle_84992,Limited Time Offer,18.54,2023-02-06,2028-05-17,53.12,42.75,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00358,Texas_47267,Weekend Offer,42.88,2020-09-15,2025-10-11,24.54,5.97,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00359,P.F._52683,Weekend Offer,8.0,2021-08-29,2028-07-25,85.12,49.47,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00360,Panera_10058,Festive Sale,38.3,2023-11-01,2029-02-03,85.64,75.2,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00361,Chipotle_19102,Limited Time Offer,12.2,2023-04-16,2027-05-19,25.83,25.33,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00362,Outback_38175,Festive Sale,49.46,2024-07-29,2029-12-29,89.41,72.37,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00363,Chipotle_83712,Festive Sale,22.49,2022-07-27,2025-12-09,20.99,88.38,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00364,Buffalo_55814,Limited Time Offer,23.48,2020-05-27,2026-09-21,65.54,67.69,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00365,The_43570,Holiday Discount,36.3,2024-05-30,2025-07-28,61.71,95.48,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00366,Olive_1971,Festive Sale,9.36,2021-12-09,2028-06-14,56.6,60.99,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00367,Chili's_36399,Holiday Discount,27.45,2024-03-24,2025-08-07,15.68,26.41,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00368,Olive_23391,Weekend Offer,12.08,2021-03-01,2028-12-22,10.26,35.45,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00369,Chili's_68839,Holiday Discount,18.62,2023-11-07,2027-05-16,80.86,90.16,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00370,Red_22956,Special Deal,46.6,2020-01-22,2029-07-11,10.87,70.28,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00371,Texas_34987,Special Deal,38.94,2024-03-11,2026-02-01,97.66,89.22,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00372,Outback_98505,Holiday Discount,49.05,2023-02-14,2025-12-07,44.52,83.89,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00373,Olive_46051,Holiday Discount,33.37,2022-09-13,2027-11-06,66.04,63.38,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00374,Chipotle_73222,Festive Sale,23.76,2021-01-20,2025-04-20,30.41,29.07,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00375,Buffalo_63924,Special Deal,33.32,2022-09-07,2027-10-03,35.41,90.19,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00376,Buffalo_30074,Festive Sale,32.03,2024-01-16,2025-11-06,77.57,57.75,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00377,Outback_30805,Festive Sale,31.69,2021-07-23,2026-07-29,80.82,14.98,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00378,Red_40996,Holiday Discount,10.55,2023-09-09,2029-08-28,19.71,39.02,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00379,Chili's_23849,Holiday Discount,41.8,2023-11-11,2026-09-18,61.06,60.06,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00380,The_48210,Special Deal,8.75,2020-03-02,2029-02-13,48.11,59.23,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00381,Chipotle_60472,Limited Time Offer,44.09,2024-03-10,2029-04-07,14.49,44.94,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00382,Chili's_59499,Festive Sale,33.84,2020-07-25,2026-04-04,21.35,26.29,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00383,The_43740,Holiday Discount,5.5,2023-09-25,2026-08-09,45.16,42.54,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00384,The_30960,Limited Time Offer,31.4,2023-12-24,2027-11-23,93.34,14.71,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00385,Olive_69111,Festive Sale,6.73,2024-03-17,2026-08-24,91.39,72.84,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00386,Red_5386,Weekend Offer,28.29,2020-01-04,2027-12-28,67.6,24.41,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00387,Panera_99518,Limited Time Offer,36.16,2024-03-31,2026-02-16,54.87,95.78,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00388,The_63590,Weekend Offer,27.68,2022-07-04,2029-09-09,22.66,17.23,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00389,Texas_30487,Weekend Offer,41.99,2023-03-11,2027-08-16,55.02,76.83,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00390,Buffalo_49924,Weekend Offer,48.51,2020-08-27,2026-05-01,83.4,26.2,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00391,P.F._993,Limited Time Offer,38.78,2020-10-14,2029-06-20,70.15,6.33,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00392,The_69430,Holiday Discount,29.95,2024-02-27,2028-09-25,36.04,13.46,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00393,Red_51966,Weekend Offer,46.43,2020-03-23,2026-06-22,38.45,60.51,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00394,Olive_23191,Limited Time Offer,15.03,2021-07-13,2027-02-14,97.49,63.92,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00395,Chili's_36839,Festive Sale,6.41,2020-01-11,2025-02-18,47.16,20.51,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00396,Panera_72138,Weekend Offer,43.7,2024-04-29,2027-01-14,86.85,43.33,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00397,Texas_89297,Weekend Offer,45.02,2020-01-28,2029-11-17,41.52,49.32,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00398,Buffalo_13934,Weekend Offer,37.28,2024-06-20,2027-04-09,83.73,44.28,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00399,Outback_95825,Festive Sale,24.19,2021-02-07,2026-06-07,25.2,68.11,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00400,Buffalo_25724,Weekend Offer,32.18,2022-07-17,2027-07-24,78.58,83.84,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00401,Olive_78161,Festive Sale,47.07,2022-07-23,2028-11-11,34.13,40.55,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00402,The_930,Festive Sale,42.01,2022-12-10,2025-07-11,72.1,6.22,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00403,P.F._15473,Special Deal,33.09,2023-06-11,2027-09-13,12.03,39.0,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00404,Red_18476,Holiday Discount,29.31,2021-12-03,2025-06-08,55.95,59.38,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00405,Texas_38467,Weekend Offer,11.63,2023-12-04,2028-07-15,80.97,69.37,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00406,Texas_80377,Holiday Discount,38.57,2021-05-07,2029-10-02,82.75,80.3,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00407,Outback_86495,Holiday Discount,29.93,2022-05-25,2028-01-21,88.74,89.42,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00408,Texas_68407,Holiday Discount,17.01,2024-07-05,2028-06-23,47.69,93.51,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00409,Chili's_17409,Special Deal,11.54,2022-05-16,2029-02-17,10.72,9.49,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00410,Chipotle_13912,Festive Sale,14.08,2024-12-29,2029-02-24,36.75,97.42,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00411,Texas_25757,Festive Sale,24.32,2020-10-11,2029-02-05,83.32,29.77,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00412,Buffalo_56394,Holiday Discount,18.87,2022-10-02,2029-12-09,22.07,25.61,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00413,The_11620,Limited Time Offer,41.55,2022-04-16,2026-01-05,27.25,61.01,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00414,Chipotle_20802,Festive Sale,6.85,2023-05-08,2029-08-26,48.89,68.63,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00415,The_43730,Holiday Discount,5.81,2021-12-02,2028-12-04,47.26,11.59,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00416,Buffalo_89474,Special Deal,9.81,2021-02-01,2025-12-22,72.45,83.09,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00417,Texas_11367,Holiday Discount,49.71,2022-10-02,2028-02-23,24.98,40.2,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00418,Texas_13517,Weekend Offer,23.85,2022-01-27,2026-08-15,89.95,8.94,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00419,Outback_89125,Limited Time Offer,28.79,2023-08-20,2029-04-02,92.9,83.19,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00420,Red_62296,Limited Time Offer,35.62,2024-09-09,2026-05-06,49.75,26.64,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00421,Olive_70081,Limited Time Offer,14.75,2021-05-02,2029-01-18,34.0,37.67,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00422,Olive_74151,Limited Time Offer,49.47,2020-08-26,2026-06-27,31.63,7.69,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00423,Texas_56447,Festive Sale,13.66,2023-07-04,2026-10-20,59.55,47.19,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00424,Texas_35427,Limited Time Offer,20.56,2021-01-16,2026-06-12,46.89,54.04,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00425,Panera_91948,Limited Time Offer,43.3,2020-02-24,2026-02-25,41.73,86.85,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00426,Texas_43317,Holiday Discount,39.96,2020-09-25,2026-10-08,44.69,77.83,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00427,Outback_72835,Special Deal,11.9,2022-06-27,2028-03-31,25.18,57.71,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00428,Chili's_5899,Holiday Discount,10.54,2020-01-12,2027-05-26,74.78,32.89,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00429,Panera_23428,Weekend Offer,27.51,2022-04-13,2028-10-24,63.91,84.38,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00430,Texas_10707,Festive Sale,9.69,2021-01-28,2029-12-01,98.6,28.64,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00431,Chili's_29869,Weekend Offer,18.63,2020-11-01,2028-12-07,92.29,20.66,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00432,Red_26296,Holiday Discount,7.74,2024-11-29,2029-12-19,63.02,16.92,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00433,Panera_65318,Limited Time Offer,43.67,2024-01-16,2028-08-31,24.98,39.23,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00434,P.F._40263,Holiday Discount,19.45,2024-07-16,2025-08-04,76.6,44.18,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00435,Panera_32128,Weekend Offer,38.71,2023-02-05,2029-02-13,97.86,67.61,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00436,Olive_64461,Special Deal,27.74,2023-09-26,2025-10-03,63.82,74.17,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00437,P.F._60733,Limited Time Offer,39.39,2023-11-21,2029-08-03,92.22,23.38,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00438,Chipotle_41172,Limited Time Offer,18.04,2023-01-27,2026-01-31,96.51,86.66,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00439,Outback_36065,Limited Time Offer,39.35,2024-06-21,2029-05-15,78.2,38.95,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00440,Buffalo_33194,Special Deal,15.48,2024-10-20,2029-11-02,91.96,81.92,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00441,Texas_71197,Festive Sale,33.82,2024-06-22,2026-05-08,73.11,53.54,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00442,Olive_2891,Special Deal,36.68,2023-09-06,2028-01-10,62.41,65.28,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00443,Outback_35785,Weekend Offer,41.96,2023-11-07,2028-12-17,94.05,56.42,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00444,Outback_95785,Special Deal,18.87,2021-11-10,2028-10-15,29.59,95.91,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00445,Olive_90371,Special Deal,6.45,2020-05-08,2027-06-05,80.69,69.4,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00446,Chipotle_38112,Festive Sale,25.66,2022-06-03,2028-11-25,41.5,72.62,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00447,Panera_38788,Limited Time Offer,34.07,2021-03-30,2029-09-16,66.4,81.11,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00448,Olive_51591,Weekend Offer,42.55,2021-05-14,2029-07-22,52.5,69.76,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00449,Red_50816,Festive Sale,38.52,2023-04-08,2029-05-27,11.86,27.02,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00450,Texas_88477,Holiday Discount,34.56,2023-11-30,2029-01-22,77.79,46.7,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00451,Red_31866,Limited Time Offer,37.53,2021-09-03,2025-10-14,20.14,8.99,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00452,Chili's_95239,Weekend Offer,10.61,2021-04-04,2025-06-01,49.28,8.31,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00453,Texas_54817,Special Deal,22.64,2022-09-04,2028-02-07,66.44,26.87,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00454,Buffalo_48084,Special Deal,27.79,2022-11-02,2025-12-15,40.05,19.47,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00455,Panera_57428,Festive Sale,39.87,2020-10-25,2026-02-12,43.09,88.12,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00456,Texas_74337,Limited Time Offer,43.37,2021-06-26,2028-08-18,27.06,54.76,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00457,The_44010,Limited Time Offer,35.53,2023-08-02,2029-09-10,79.35,50.04,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00458,Outback_12865,Special Deal,20.8,2024-10-27,2026-02-25,88.6,70.32,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00459,Chipotle_22992,Weekend Offer,26.17,2024-03-28,2028-04-22,12.83,23.22,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00460,The_660,Weekend Offer,27.08,2022-03-30,2025-04-12,52.39,63.05,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00461,Buffalo_64644,Festive Sale,13.16,2024-03-11,2027-02-17,79.79,67.53,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00462,Olive_51271,Special Deal,11.06,2023-11-11,2027-10-09,49.01,33.43,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00463,Chili's_22719,Festive Sale,25.26,2023-04-01,2027-05-05,87.47,81.92,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00464,Buffalo_85914,Limited Time Offer,29.23,2022-03-02,2027-06-01,83.56,52.3,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00465,P.F._35693,Holiday Discount,7.56,2024-08-02,2028-10-03,47.33,59.14,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00466,Outback_76065,Holiday Discount,17.34,2020-04-24,2029-01-31,67.21,19.65,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00467,Outback_98365,Limited Time Offer,16.87,2023-12-08,2025-09-30,86.95,73.81,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00468,Texas_25347,Limited Time Offer,49.49,2022-08-24,2025-10-26,38.57,94.46,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00469,Outback_2005,Holiday Discount,12.25,2021-04-17,2028-06-27,22.97,99.58,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00470,Olive_33801,Special Deal,14.04,2022-12-23,2029-12-30,13.88,30.3,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00471,Outback_21505,Holiday Discount,12.45,2024-07-12,2027-02-07,17.26,61.07,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00472,Outback_85595,Festive Sale,41.56,2024-03-23,2025-06-11,15.02,47.99,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00473,P.F._1233,Weekend Offer,29.98,2022-12-12,2028-05-22,92.62,76.43,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00474,Chipotle_7972,Festive Sale,12.54,2021-12-01,2025-09-17,19.23,72.06,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00475,Outback_97125,Festive Sale,13.23,2023-11-07,2029-05-21,68.15,56.86,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00476,Chili's_98209,Holiday Discount,29.58,2020-06-01,2028-12-08,96.52,26.31,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00477,Chili's_8189,Weekend Offer,14.83,2021-02-20,2027-05-02,97.98,61.89,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00478,Panera_59488,Holiday Discount,26.85,2022-02-25,2028-09-17,50.76,6.46,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00479,Red_86036,Special Deal,29.01,2022-12-27,2028-09-28,17.14,17.56,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00480,Red_83326,Festive Sale,21.65,2022-05-11,2027-04-16,14.5,67.08,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00481,P.F._67853,Limited Time Offer,38.03,2020-07-27,2029-11-26,21.8,73.07,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00482,The_33110,Festive Sale,15.8,2021-07-20,2029-04-09,97.52,10.51,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00483,Chili's_31899,Limited Time Offer,32.41,2020-01-09,2029-03-08,50.71,24.12,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00484,Outback_40205,Festive Sale,29.86,2021-03-21,2027-11-03,74.82,25.3,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00485,Chili's_96739,Weekend Offer,32.88,2020-04-26,2025-12-16,36.71,14.46,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00486,P.F._91383,Festive Sale,27.17,2020-11-08,2025-06-13,44.25,54.26,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00487,P.F._1693,Special Deal,21.51,2023-11-20,2026-09-13,66.8,39.86,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00488,Panera_37048,Weekend Offer,31.07,2023-12-09,2028-04-14,31.85,95.74,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00489,Red_77116,Holiday Discount,33.64,2022-04-19,2029-10-01,36.64,38.45,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00490,Buffalo_38604,Festive Sale,28.3,2022-12-03,2027-08-24,51.92,5.94,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00491,The_31130,Weekend Offer,25.46,2021-07-23,2027-06-04,74.91,12.73,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00492,The_87160,Festive Sale,9.63,2021-07-19,2026-08-17,69.58,85.89,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00493,Chili's_38449,Festive Sale,22.99,2024-04-08,2026-05-28,69.99,35.49,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00494,Chipotle_5312,Holiday Discount,40.21,2022-08-31,2025-05-07,28.86,93.32,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00495,Panera_65968,Holiday Discount,20.7,2023-05-22,2027-11-09,44.78,79.2,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00496,Olive_60891,Festive Sale,26.56,2023-10-14,2026-11-05,59.82,36.69,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00497,Chili's_189,Holiday Discount,22.42,2024-01-10,2029-07-09,70.47,39.33,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00498,Buffalo_76584,Festive Sale,47.31,2021-08-13,2029-09-29,20.73,79.32,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00499,Buffalo_84564,Special Deal,45.04,2021-05-07,2029-06-13,41.2,94.03,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00500,Red_24256,Weekend Offer,7.98,2024-07-11,2026-12-07,23.97,45.71,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00501,Chili's_99909,Holiday Discount,18.99,2021-10-22,2029-07-20,97.38,87.95,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00502,Outback_78745,Festive Sale,31.26,2023-10-22,2025-03-02,73.65,98.2,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00503,The_81830,Holiday Discount,38.84,2024-05-03,2027-01-25,40.63,97.93,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00504,Buffalo_29314,Weekend Offer,38.01,2022-08-16,2025-12-01,71.33,44.42,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00505,Panera_27458,Holiday Discount,20.36,2023-02-21,2029-04-11,29.87,79.02,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00506,Chipotle_63412,Limited Time Offer,12.07,2023-06-06,2026-08-20,24.64,94.75,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00507,Chili's_9369,Holiday Discount,28.58,2021-05-24,2028-05-24,77.18,67.29,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00508,The_40130,Limited Time Offer,10.23,2024-12-14,2028-08-12,20.49,69.38,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00509,The_66890,Weekend Offer,16.7,2024-11-18,2026-12-10,91.23,56.99,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00510,Buffalo_83384,Holiday Discount,34.07,2020-10-12,2027-04-28,64.16,54.68,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00511,P.F._69173,Holiday Discount,26.29,2022-02-08,2026-12-05,67.14,73.86,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00512,The_59940,Limited Time Offer,31.01,2020-12-31,2026-07-15,16.88,62.53,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00513,Outback_41295,Holiday Discount,46.83,2022-08-05,2027-02-09,93.68,9.87,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00514,P.F._17313,Limited Time Offer,7.89,2024-01-27,2029-09-26,33.91,6.93,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00515,Outback_48965,Holiday Discount,28.48,2021-10-14,2029-11-09,70.89,83.23,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00516,Panera_32018,Festive Sale,49.97,2021-07-17,2028-04-10,46.8,60.1,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00517,Olive_26801,Limited Time Offer,33.53,2021-08-22,2025-04-27,99.95,60.91,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00518,Outback_69455,Special Deal,8.82,2023-07-25,2029-06-11,45.86,48.01,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00519,Buffalo_40114,Limited Time Offer,30.11,2024-03-30,2029-03-08,98.49,22.87,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00520,The_82090,Festive Sale,22.21,2020-11-25,2026-05-11,47.5,47.22,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00521,Olive_88941,Special Deal,5.51,2021-02-21,2029-09-05,27.44,81.62,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00522,Panera_5448,Festive Sale,33.53,2024-03-27,2029-10-09,64.98,44.93,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00523,Olive_83401,Festive Sale,23.35,2022-07-26,2026-05-01,78.61,11.37,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00524,Red_65156,Special Deal,19.98,2024-08-12,2027-04-04,58.68,15.03,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00525,Chipotle_20052,Festive Sale,7.31,2024-01-12,2028-06-11,54.86,88.7,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00526,P.F._55293,Limited Time Offer,34.18,2022-12-21,2028-02-29,67.83,26.81,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00527,Chipotle_26552,Limited Time Offer,8.96,2023-01-05,2028-08-08,49.92,18.82,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00528,Chipotle_70492,Festive Sale,13.26,2021-09-21,2025-10-27,72.4,76.8,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00529,The_28090,Special Deal,38.73,2022-04-08,2028-09-10,60.43,45.3,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00530,Panera_21608,Festive Sale,47.9,2020-12-21,2027-11-05,23.7,27.19,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00531,Buffalo_44244,Festive Sale,9.12,2023-11-12,2026-01-06,77.78,61.08,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00532,Chili's_83349,Holiday Discount,9.76,2024-01-10,2029-11-14,28.55,79.24,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00533,The_20820,Limited Time Offer,26.24,2023-04-30,2028-01-26,18.15,63.28,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00534,P.F._20183,Festive Sale,11.61,2020-03-16,2027-03-05,59.76,34.76,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00535,Panera_52638,Festive Sale,42.77,2021-06-27,2029-12-26,37.35,39.69,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00536,Panera_70128,Weekend Offer,13.83,2023-11-26,2029-04-25,90.62,62.79,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00537,The_41360,Holiday Discount,18.19,2024-08-04,2025-02-25,26.56,43.47,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00538,Outback_70625,Weekend Offer,24.15,2023-01-06,2029-05-31,87.2,26.57,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00539,Outback_4335,Special Deal,11.26,2021-06-03,2027-06-10,86.94,97.6,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00540,Panera_74728,Holiday Discount,30.54,2024-06-29,2029-06-06,84.52,98.87,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00541,Chipotle_8902,Special Deal,19.32,2020-06-22,2027-10-17,95.88,83.28,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00542,Chipotle_41142,Limited Time Offer,40.64,2022-02-25,2028-08-01,66.72,77.5,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00543,Texas_34247,Holiday Discount,26.55,2024-03-20,2029-08-17,44.67,43.31,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00544,P.F._67213,Limited Time Offer,12.67,2021-08-19,2029-12-02,22.57,25.76,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00545,Outback_56205,Festive Sale,34.36,2021-02-02,2026-07-01,76.38,74.99,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00546,Panera_38248,Holiday Discount,33.59,2021-01-15,2027-08-22,35.12,95.1,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00547,Buffalo_73444,Festive Sale,20.34,2020-04-23,2025-05-24,63.17,7.75,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00548,Panera_21938,Special Deal,49.32,2022-01-25,2026-04-30,64.98,38.95,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00549,Red_51546,Weekend Offer,26.25,2020-03-25,2029-04-07,42.62,60.74,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00550,Chili's_89989,Festive Sale,40.68,2022-01-13,2027-07-07,80.25,71.84,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00551,Chili's_68129,Holiday Discount,21.21,2022-12-29,2026-11-06,29.32,28.48,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00552,The_36030,Holiday Discount,40.93,2020-08-12,2028-07-15,26.25,39.02,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00553,Chili's_23429,Special Deal,44.03,2024-06-12,2029-10-08,75.29,12.4,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00554,Panera_13298,Weekend Offer,26.31,2022-10-27,2025-03-19,47.31,62.16,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00555,Outback_21385,Weekend Offer,30.76,2021-12-24,2025-04-11,75.73,73.72,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00556,Texas_49437,Festive Sale,45.31,2020-11-18,2028-10-22,49.49,49.92,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00557,P.F._22763,Festive Sale,29.59,2022-07-19,2026-01-21,55.89,27.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00558,Olive_88801,Limited Time Offer,42.03,2024-03-04,2027-09-27,94.39,65.0,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00559,Olive_7841,Holiday Discount,12.8,2021-08-03,2029-02-26,58.36,84.78,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00560,Olive_28461,Holiday Discount,7.63,2023-02-20,2028-12-08,57.32,53.71,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00561,Buffalo_67634,Festive Sale,29.52,2023-04-15,2026-09-10,29.62,29.15,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00562,Outback_67905,Special Deal,13.39,2022-04-19,2029-02-15,55.26,5.47,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00563,Buffalo_37724,Weekend Offer,13.96,2023-03-22,2029-02-04,18.92,65.65,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00564,Outback_29595,Limited Time Offer,20.66,2022-12-03,2025-02-18,12.27,17.97,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00565,Chipotle_89922,Weekend Offer,43.07,2021-11-10,2026-10-03,65.31,94.41,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00566,Chili's_53859,Festive Sale,22.04,2024-01-05,2026-12-01,86.63,89.16,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00567,Outback_14005,Limited Time Offer,41.54,2024-09-29,2027-07-01,53.66,88.45,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00568,P.F._71003,Limited Time Offer,35.42,2021-04-19,2027-03-08,31.41,10.64,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00569,Red_92946,Limited Time Offer,28.8,2021-01-24,2028-08-14,97.6,42.25,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00570,Chili's_31029,Festive Sale,7.26,2021-07-29,2028-01-10,59.49,27.17,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00571,The_59110,Special Deal,44.63,2023-04-26,2026-05-15,65.97,86.13,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00572,Texas_29627,Festive Sale,8.25,2020-10-26,2027-07-24,54.68,39.69,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00573,Texas_45127,Holiday Discount,40.88,2020-11-07,2025-03-26,63.21,51.9,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00574,Buffalo_57454,Weekend Offer,38.3,2023-08-08,2025-03-20,26.63,22.88,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00575,Red_7716,Holiday Discount,22.38,2023-11-02,2030-01-01,98.6,99.11,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00576,Red_68806,Festive Sale,23.8,2024-02-02,2026-08-28,61.52,63.81,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00577,Texas_65837,Weekend Offer,10.34,2023-09-05,2027-09-25,91.66,49.09,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00578,Red_84176,Holiday Discount,40.71,2021-07-01,2029-06-17,49.85,46.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00579,Panera_69658,Festive Sale,20.68,2024-03-02,2028-05-07,49.34,11.64,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00580,Texas_57127,Weekend Offer,44.2,2024-03-27,2027-09-05,77.77,56.0,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00581,Buffalo_68144,Limited Time Offer,7.85,2023-10-04,2029-06-06,92.0,53.01,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00582,Texas_41397,Special Deal,21.91,2024-08-20,2027-05-20,72.82,93.74,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00583,Chipotle_15802,Special Deal,34.65,2020-04-17,2026-06-12,20.78,93.2,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00584,P.F._92333,Special Deal,27.94,2022-04-12,2025-08-12,36.21,21.47,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00585,Chipotle_64442,Special Deal,36.74,2023-06-01,2028-08-13,43.88,45.55,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00586,The_22480,Limited Time Offer,27.39,2021-09-20,2028-01-09,79.4,14.34,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00587,P.F._63303,Weekend Offer,26.62,2021-08-30,2029-02-16,88.3,44.45,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00588,The_24550,Weekend Offer,38.88,2022-11-04,2028-01-20,92.21,6.05,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00589,Olive_27631,Weekend Offer,48.65,2022-06-03,2029-02-18,15.45,15.93,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00590,Red_97476,Special Deal,24.17,2024-11-22,2029-07-27,58.43,85.54,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00591,The_70420,Special Deal,11.35,2024-03-28,2029-09-06,28.1,37.91,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00592,The_57680,Special Deal,10.18,2020-04-19,2025-09-05,28.7,85.89,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00593,Chili's_60669,Holiday Discount,35.79,2023-03-08,2029-08-03,48.72,63.72,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00594,Red_39256,Limited Time Offer,45.37,2022-06-08,2026-07-15,92.14,89.28,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00595,Panera_34818,Festive Sale,7.3,2023-01-20,2028-05-09,14.76,69.61,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00596,Outback_24295,Special Deal,21.12,2022-09-17,2028-12-04,33.49,32.04,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00597,Buffalo_694,Limited Time Offer,21.51,2022-07-13,2026-03-17,90.38,51.76,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00598,P.F._39813,Limited Time Offer,24.61,2023-11-04,2026-08-16,80.6,91.54,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00599,Chili's_98499,Weekend Offer,46.88,2024-07-15,2028-11-15,97.7,90.55,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00600,Texas_97787,Limited Time Offer,37.62,2021-01-15,2028-02-24,36.38,25.25,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00601,Red_89036,Weekend Offer,24.91,2024-04-25,2029-12-06,79.1,23.56,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00602,P.F._76463,Holiday Discount,44.52,2022-04-02,2027-10-18,23.28,44.36,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00603,Red_4356,Limited Time Offer,42.15,2024-04-10,2026-03-29,64.27,8.73,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00604,Olive_77031,Holiday Discount,45.21,2022-10-06,2029-07-18,37.47,12.05,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00605,Buffalo_12324,Holiday Discount,6.71,2021-09-11,2027-07-30,55.82,25.49,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00606,Red_79846,Special Deal,25.81,2024-12-16,2025-09-01,98.66,6.22,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00607,Olive_78691,Holiday Discount,41.04,2023-09-20,2027-12-10,66.17,14.96,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00608,Texas_54047,Special Deal,48.35,2023-11-19,2027-05-18,29.71,86.85,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00609,Olive_61961,Holiday Discount,49.16,2022-07-01,2029-02-16,49.92,28.79,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00610,The_44670,Special Deal,49.03,2024-08-02,2025-04-23,40.67,88.21,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00611,Outback_73435,Limited Time Offer,15.88,2020-05-20,2027-07-08,89.13,95.26,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00612,Texas_76457,Weekend Offer,30.1,2024-05-08,2028-12-20,21.67,74.68,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00613,P.F._75363,Limited Time Offer,24.1,2020-12-02,2028-09-13,81.13,90.94,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00614,Outback_91965,Holiday Discount,17.9,2020-08-02,2029-11-27,54.69,20.0,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00615,Panera_86768,Holiday Discount,29.43,2022-03-05,2027-06-16,93.02,88.9,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00616,Outback_26575,Special Deal,34.08,2020-06-27,2029-07-01,40.3,50.31,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00617,Chili's_65569,Special Deal,16.35,2022-12-26,2029-04-27,74.26,10.66,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00618,Red_88726,Festive Sale,20.55,2022-07-18,2027-05-27,60.32,10.56,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00619,Chipotle_48302,Limited Time Offer,28.97,2023-10-10,2027-11-26,51.05,89.35,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00620,Texas_19607,Special Deal,47.95,2021-04-19,2025-12-11,94.27,50.1,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00621,The_13370,Weekend Offer,41.27,2021-03-26,2025-09-07,23.19,56.89,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00622,Buffalo_944,Holiday Discount,27.83,2021-03-09,2026-12-06,30.2,93.52,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00623,Red_69306,Weekend Offer,18.58,2024-11-23,2029-12-13,23.38,44.16,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00624,Chili's_87299,Holiday Discount,31.11,2023-04-26,2027-01-24,57.85,48.04,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00625,P.F._64803,Festive Sale,16.93,2022-08-21,2025-03-22,34.52,77.82,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00626,Outback_13525,Festive Sale,33.16,2020-04-16,2026-11-22,73.42,29.63,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00627,Red_5676,Holiday Discount,45.65,2024-09-30,2027-03-16,57.68,7.6,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00628,P.F._56503,Special Deal,8.03,2022-09-05,2025-02-20,86.27,21.13,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00629,Chili's_24959,Weekend Offer,21.97,2022-11-29,2029-06-01,21.01,25.86,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00630,Red_68756,Special Deal,10.09,2023-03-15,2027-01-09,68.79,46.71,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00631,P.F._56313,Special Deal,17.38,2021-05-06,2028-09-20,15.93,19.5,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00632,Buffalo_98294,Limited Time Offer,31.37,2021-03-18,2027-09-10,73.72,58.72,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00633,P.F._91363,Limited Time Offer,41.67,2023-04-06,2026-11-12,49.29,34.09,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00634,Chili's_14879,Weekend Offer,44.65,2021-10-12,2029-08-24,96.79,65.38,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00635,Panera_49628,Special Deal,5.08,2021-06-27,2028-09-19,31.12,37.42,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00636,Red_51586,Festive Sale,33.87,2021-03-20,2028-11-26,63.98,14.21,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00637,The_59230,Holiday Discount,12.73,2021-01-13,2026-01-08,41.52,53.03,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00638,Texas_74987,Festive Sale,35.91,2023-01-11,2028-01-22,63.5,51.53,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00639,Chipotle_83252,Festive Sale,48.06,2020-04-24,2027-06-19,32.32,78.26,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00640,Texas_73217,Festive Sale,19.46,2020-03-17,2029-03-10,27.63,43.87,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00641,Outback_3945,Holiday Discount,33.58,2023-02-07,2025-07-19,66.66,25.52,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00642,Red_93846,Holiday Discount,37.7,2022-08-04,2026-07-08,27.6,31.38,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00643,Outback_4505,Festive Sale,26.24,2022-10-19,2026-12-29,22.48,37.56,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00644,The_43840,Festive Sale,24.49,2023-12-08,2025-09-13,13.8,61.83,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00645,Outback_34125,Limited Time Offer,43.9,2021-08-19,2027-02-17,28.15,63.72,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00646,The_46990,Holiday Discount,14.75,2021-02-26,2026-03-20,10.6,79.2,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00647,Panera_728,Special Deal,34.62,2021-05-07,2025-08-31,16.09,60.86,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00648,Red_53686,Limited Time Offer,45.03,2022-08-11,2028-03-26,57.23,17.22,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00649,P.F._34443,Special Deal,10.74,2020-10-19,2027-05-25,18.48,31.05,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00650,Olive_61311,Festive Sale,41.29,2021-07-09,2027-11-30,71.51,9.73,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00651,P.F._58543,Festive Sale,12.69,2020-02-11,2028-04-28,29.99,13.27,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00652,The_94910,Limited Time Offer,5.69,2022-08-08,2026-08-23,88.46,97.11,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00653,Buffalo_10414,Special Deal,6.87,2021-11-25,2028-10-22,91.74,80.82,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00654,The_24960,Special Deal,27.19,2024-07-07,2025-03-26,10.37,91.44,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00655,Olive_21191,Festive Sale,10.66,2024-03-02,2025-08-01,18.35,79.43,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00656,Outback_97625,Festive Sale,23.62,2023-05-26,2028-11-30,38.57,48.08,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00657,Panera_94548,Weekend Offer,10.07,2021-04-11,2026-10-18,49.72,12.14,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00658,The_5700,Limited Time Offer,44.79,2020-06-05,2026-06-10,56.1,66.77,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00659,Chili's_47049,Special Deal,18.55,2022-08-03,2025-04-12,86.06,19.92,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00660,Chipotle_83872,Holiday Discount,31.53,2021-05-10,2029-08-28,55.41,22.28,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00661,Chipotle_50332,Holiday Discount,8.13,2023-02-27,2029-07-25,34.34,31.06,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00662,P.F._70123,Festive Sale,48.4,2023-10-19,2029-03-28,34.58,71.69,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00663,Chipotle_8822,Weekend Offer,10.55,2022-05-08,2025-04-10,59.18,64.83,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00664,Chili's_58839,Festive Sale,42.73,2020-07-31,2029-08-19,49.4,43.59,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00665,Chili's_90719,Holiday Discount,23.4,2023-08-02,2028-06-07,52.83,73.7,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00666,Texas_19407,Holiday Discount,40.8,2020-03-26,2027-05-27,38.9,5.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00667,Outback_5475,Special Deal,17.96,2022-11-05,2028-07-20,53.12,96.94,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00668,Outback_20185,Limited Time Offer,42.26,2021-11-12,2027-02-19,61.49,9.89,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00669,Panera_15098,Special Deal,28.04,2022-10-27,2028-09-30,49.72,19.47,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00670,Buffalo_85934,Special Deal,22.15,2023-12-24,2028-04-26,81.23,92.07,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00671,P.F._86383,Limited Time Offer,44.87,2021-04-03,2029-06-08,61.08,22.09,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00672,Red_38816,Special Deal,38.7,2023-05-10,2028-09-28,22.62,99.15,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00673,Chipotle_90392,Limited Time Offer,30.0,2021-06-12,2025-03-13,45.45,63.47,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00674,The_89830,Special Deal,22.64,2020-05-11,2025-09-29,98.57,37.86,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00675,Chipotle_62812,Festive Sale,17.94,2021-04-16,2028-08-30,73.77,96.36,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00676,P.F._19723,Festive Sale,9.43,2020-12-08,2028-08-10,64.14,29.78,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00677,Olive_61841,Weekend Offer,9.8,2021-12-09,2028-12-03,20.28,65.22,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00678,Buffalo_40774,Limited Time Offer,43.73,2021-04-09,2025-05-18,72.57,84.69,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00679,Panera_968,Holiday Discount,38.54,2023-05-13,2029-05-09,98.86,30.86,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00680,Outback_10005,Holiday Discount,28.68,2021-07-01,2029-03-04,34.76,97.21,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00681,Outback_87305,Festive Sale,17.42,2020-07-13,2026-08-01,77.06,41.92,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00682,Buffalo_98084,Special Deal,23.51,2020-05-20,2025-05-24,89.14,23.82,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00683,Buffalo_28674,Festive Sale,18.82,2023-07-15,2029-05-30,43.97,62.38,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00684,Chili's_64299,Special Deal,22.29,2020-07-24,2027-04-12,73.26,24.46,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00685,Texas_40397,Festive Sale,16.07,2021-07-05,2027-01-06,75.37,76.88,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00686,Panera_90428,Special Deal,37.64,2024-03-17,2025-07-18,48.1,11.82,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00687,Chili's_31819,Holiday Discount,10.42,2024-08-26,2026-08-20,97.86,39.57,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00688,Outback_5195,Limited Time Offer,8.83,2022-06-18,2027-12-15,71.14,44.48,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00689,Outback_46775,Weekend Offer,26.68,2020-09-20,2029-08-30,29.81,79.42,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00690,Red_25366,Weekend Offer,30.41,2024-05-29,2027-10-05,64.6,17.77,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00691,The_75740,Festive Sale,14.96,2023-11-23,2028-11-21,65.76,24.0,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00692,Buffalo_39874,Weekend Offer,40.77,2024-07-14,2029-04-10,98.24,71.56,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00693,Chipotle_682,Weekend Offer,20.03,2021-04-08,2027-05-16,52.15,94.2,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00694,Olive_71281,Festive Sale,27.04,2021-03-24,2025-07-18,47.66,92.85,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00695,Red_1016,Special Deal,31.33,2020-07-26,2027-05-23,20.6,50.29,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00696,The_71130,Weekend Offer,46.5,2023-03-30,2029-09-26,61.89,30.13,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00697,Buffalo_70164,Special Deal,37.21,2023-10-12,2027-12-14,54.72,54.81,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00698,Red_44886,Limited Time Offer,48.75,2021-01-10,2027-10-31,45.87,69.32,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00699,Panera_82938,Limited Time Offer,41.44,2024-11-06,2028-11-19,96.28,85.86,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00700,Outback_11725,Festive Sale,41.04,2021-07-31,2027-01-17,73.56,70.3,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00701,Chili's_4079,Special Deal,19.82,2021-11-24,2025-07-27,94.8,63.02,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00702,Chili's_45179,Festive Sale,24.57,2022-10-14,2028-07-25,89.09,82.06,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00703,Chili's_16039,Limited Time Offer,42.56,2022-07-14,2027-05-04,45.35,60.01,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00704,Texas_13907,Special Deal,43.44,2021-05-31,2026-03-19,44.01,54.0,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00705,Red_81076,Festive Sale,11.52,2021-09-24,2027-07-18,23.79,74.94,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00706,P.F._74703,Holiday Discount,26.3,2021-10-04,2025-09-22,43.11,85.25,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00707,Buffalo_82294,Limited Time Offer,41.25,2023-07-03,2028-05-04,10.01,70.57,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00708,Red_37956,Weekend Offer,49.66,2023-05-27,2028-05-24,54.7,22.17,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00709,P.F._73443,Festive Sale,13.83,2020-06-08,2028-01-23,12.95,71.8,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00710,Chipotle_5022,Holiday Discount,34.11,2023-12-25,2028-11-13,44.99,47.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00711,Outback_48945,Special Deal,8.06,2021-10-17,2028-02-08,81.13,21.89,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00712,Texas_73717,Special Deal,16.03,2024-06-27,2025-11-21,49.95,37.27,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00713,Chili's_98789,Special Deal,47.38,2021-01-14,2028-09-19,80.24,57.75,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00714,Outback_12205,Limited Time Offer,25.07,2023-05-08,2027-12-16,14.28,30.48,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00715,Texas_57447,Holiday Discount,41.22,2020-11-16,2027-08-26,85.49,66.78,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00716,P.F._78463,Holiday Discount,14.08,2021-12-06,2026-12-14,99.76,66.56,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00717,Outback_95715,Festive Sale,45.01,2024-02-07,2027-08-05,91.03,80.46,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00718,Chipotle_49752,Weekend Offer,20.94,2020-06-21,2027-02-26,54.13,73.65,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00719,Chipotle_63772,Holiday Discount,16.36,2021-01-25,2029-05-26,19.06,85.96,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00720,Texas_99957,Limited Time Offer,41.33,2020-04-23,2027-04-24,67.75,36.07,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00721,Buffalo_98674,Weekend Offer,27.62,2022-05-08,2027-12-04,16.84,26.84,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00722,Chili's_4319,Festive Sale,38.28,2020-10-09,2028-10-21,26.81,14.97,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00723,The_14900,Weekend Offer,27.67,2023-01-05,2025-02-01,40.41,99.48,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00724,Panera_34008,Holiday Discount,9.47,2022-10-02,2027-01-24,89.9,22.09,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00725,Texas_48467,Holiday Discount,39.32,2023-01-14,2026-03-15,99.81,69.43,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00726,Outback_72805,Festive Sale,8.34,2023-01-09,2026-08-03,70.7,34.25,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00727,Red_14116,Weekend Offer,24.93,2020-01-06,2027-12-07,86.13,90.7,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00728,The_38250,Special Deal,37.2,2023-09-12,2028-07-24,95.99,50.66,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00729,The_4920,Festive Sale,40.47,2020-04-02,2028-04-08,33.55,93.14,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00730,Texas_67817,Holiday Discount,8.07,2020-11-28,2025-03-23,58.46,92.72,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00731,The_97810,Special Deal,39.87,2020-01-17,2025-04-16,20.45,91.03,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00732,The_45190,Festive Sale,26.16,2021-12-31,2029-01-09,31.11,22.38,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00733,Panera_20728,Special Deal,20.86,2021-12-26,2025-05-27,24.95,51.13,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00734,The_11970,Holiday Discount,30.01,2023-08-09,2028-08-19,91.41,12.96,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00735,P.F._89463,Festive Sale,38.2,2023-10-22,2026-11-04,32.87,93.66,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00736,Outback_36235,Weekend Offer,37.25,2023-10-05,2028-07-02,48.13,77.35,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00737,Red_83366,Limited Time Offer,31.85,2023-10-12,2028-03-31,70.44,56.0,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00738,Chili's_35879,Special Deal,28.04,2020-12-04,2029-11-27,82.21,61.73,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00739,P.F._94683,Weekend Offer,29.27,2024-06-16,2025-07-28,66.66,38.68,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00740,Outback_43835,Weekend Offer,6.71,2021-10-31,2029-04-14,87.6,41.73,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00741,Panera_11328,Limited Time Offer,6.1,2020-10-11,2026-10-17,55.06,7.96,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00742,Chili's_54329,Limited Time Offer,24.84,2022-01-14,2029-11-24,84.24,51.43,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00743,Olive_60491,Special Deal,38.3,2024-04-20,2027-03-09,78.07,62.6,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00744,The_38010,Weekend Offer,22.5,2020-06-12,2026-05-23,12.68,65.82,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00745,Outback_40535,Festive Sale,8.64,2020-04-26,2028-04-02,57.76,16.95,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00746,Red_26816,Weekend Offer,32.95,2024-06-04,2028-03-22,42.97,27.37,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00747,Buffalo_97434,Limited Time Offer,31.78,2023-12-31,2029-05-27,47.07,7.71,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00748,P.F._22693,Special Deal,16.16,2023-10-15,2028-03-11,13.49,29.43,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00749,Buffalo_61624,Limited Time Offer,5.66,2021-05-19,2029-09-23,52.16,47.45,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00750,Panera_44568,Limited Time Offer,28.56,2021-08-19,2028-06-21,30.38,80.15,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00751,Red_72466,Limited Time Offer,14.06,2022-10-20,2026-06-02,26.57,37.67,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00752,Panera_80908,Special Deal,34.09,2023-12-06,2025-07-02,28.78,60.6,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00753,Red_4246,Holiday Discount,28.19,2022-07-26,2028-10-27,69.02,88.87,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00754,The_4800,Holiday Discount,39.97,2021-07-23,2029-02-12,24.38,86.68,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00755,Buffalo_59574,Festive Sale,43.69,2024-10-29,2029-09-05,48.15,57.22,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00756,Red_91206,Special Deal,17.49,2022-06-22,2027-07-04,83.61,44.44,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00757,Buffalo_87534,Festive Sale,39.66,2023-04-29,2026-05-15,37.42,54.5,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00758,Texas_92507,Special Deal,24.69,2022-03-15,2027-08-14,12.31,82.18,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00759,Outback_7345,Holiday Discount,40.7,2023-05-26,2028-08-17,85.0,58.58,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00760,Olive_24131,Festive Sale,33.31,2021-05-16,2029-02-11,57.4,54.87,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00761,Chipotle_21482,Holiday Discount,9.53,2020-04-19,2026-06-04,84.16,18.04,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00762,The_87070,Holiday Discount,12.55,2020-12-05,2027-08-31,74.85,28.9,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00763,Olive_15281,Special Deal,15.49,2024-08-19,2029-09-29,38.74,46.27,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00764,Buffalo_72354,Holiday Discount,46.0,2021-07-11,2025-04-14,17.74,87.31,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00765,Chipotle_42,Special Deal,46.18,2024-11-20,2028-12-29,40.88,58.29,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00766,Chili's_98179,Holiday Discount,40.75,2024-11-13,2027-03-04,21.6,91.24,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00767,Outback_3675,Festive Sale,47.53,2022-12-24,2026-12-30,73.41,9.35,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00768,Chipotle_45942,Limited Time Offer,46.02,2024-10-21,2027-12-29,39.26,42.26,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00769,Chipotle_23522,Special Deal,15.2,2022-02-26,2025-03-12,16.14,74.81,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00770,Red_56546,Weekend Offer,48.9,2021-02-01,2026-09-12,20.71,84.01,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00771,Texas_71347,Festive Sale,38.68,2023-03-24,2026-09-14,36.12,39.43,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00772,Chili's_49829,Limited Time Offer,40.77,2021-09-17,2028-07-05,51.43,22.19,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00773,Buffalo_78624,Limited Time Offer,18.42,2021-10-25,2025-09-05,79.31,57.63,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00774,Chipotle_74502,Holiday Discount,31.29,2020-02-14,2028-12-06,31.65,6.18,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00775,Olive_66271,Festive Sale,39.62,2024-02-18,2027-06-19,24.08,80.55,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00776,The_70440,Festive Sale,8.76,2023-04-13,2029-06-25,68.53,94.65,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00777,P.F._78753,Limited Time Offer,18.55,2020-10-17,2025-06-10,16.97,58.96,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00778,Chipotle_9092,Weekend Offer,49.91,2020-11-16,2026-03-13,26.22,49.16,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00779,Chili's_6729,Weekend Offer,8.71,2020-06-05,2026-03-11,93.3,91.62,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00780,Chili's_65119,Weekend Offer,47.55,2022-05-09,2026-10-18,17.7,28.15,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00781,Olive_25031,Holiday Discount,39.96,2021-03-08,2029-11-10,80.74,69.94,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00782,P.F._69893,Weekend Offer,41.53,2024-02-12,2029-12-01,79.41,27.69,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00783,The_46980,Limited Time Offer,39.53,2024-09-30,2025-05-23,76.57,30.08,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00784,Chipotle_82122,Limited Time Offer,12.27,2023-02-24,2026-10-31,49.33,32.77,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00785,Chipotle_20082,Limited Time Offer,9.87,2023-09-15,2029-06-04,25.47,55.78,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00786,Chili's_759,Weekend Offer,8.28,2022-02-23,2029-11-03,69.2,41.18,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00787,Panera_10038,Festive Sale,49.72,2022-07-31,2025-11-13,46.95,16.3,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00788,Outback_48345,Weekend Offer,36.61,2023-03-03,2027-03-19,23.03,86.36,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00789,P.F._24433,Special Deal,11.95,2024-06-17,2028-01-21,89.24,51.1,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00790,Chipotle_79942,Weekend Offer,32.57,2024-12-16,2029-11-06,17.09,48.31,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00791,Texas_74577,Special Deal,12.54,2024-05-03,2025-05-04,83.0,99.42,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00792,P.F._64363,Limited Time Offer,46.12,2024-08-05,2026-11-01,46.51,14.63,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00793,Panera_68038,Weekend Offer,17.19,2021-08-21,2028-12-19,48.87,67.23,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00794,Chili's_69349,Holiday Discount,5.82,2020-12-25,2027-07-26,97.43,61.43,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00795,Buffalo_32184,Limited Time Offer,5.22,2021-10-19,2027-09-15,37.31,68.98,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00796,Outback_3135,Festive Sale,25.16,2020-07-06,2025-04-24,88.92,39.85,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00797,Chili's_77559,Weekend Offer,19.73,2020-12-21,2029-07-25,30.68,65.98,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00798,Panera_37598,Special Deal,20.84,2021-07-08,2028-10-17,71.82,70.47,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00799,The_40790,Holiday Discount,37.45,2024-04-13,2025-09-21,11.87,29.4,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00800,P.F._19963,Festive Sale,24.25,2023-06-05,2029-04-15,15.94,38.2,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00801,P.F._89743,Limited Time Offer,10.5,2022-03-21,2027-05-17,88.94,7.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00802,Texas_1317,Festive Sale,27.33,2020-07-24,2026-05-21,83.56,37.0,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00803,Chili's_84439,Festive Sale,33.54,2022-08-05,2027-05-30,91.11,98.45,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00804,Chipotle_30092,Weekend Offer,45.17,2023-12-23,2027-08-13,45.04,12.25,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00805,Buffalo_53374,Festive Sale,47.23,2023-12-23,2027-05-04,32.84,26.72,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00806,P.F._89823,Limited Time Offer,35.06,2023-12-07,2026-11-10,60.66,50.54,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00807,Olive_13071,Limited Time Offer,44.33,2020-09-22,2028-06-14,72.4,64.85,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00808,Buffalo_11214,Holiday Discount,23.96,2022-09-27,2027-05-17,87.11,20.73,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00809,Buffalo_28514,Weekend Offer,10.25,2022-05-21,2028-11-28,15.75,6.03,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00810,Red_65596,Weekend Offer,24.96,2021-12-29,2028-10-09,95.77,88.06,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00811,The_63840,Limited Time Offer,6.55,2024-04-19,2029-09-04,25.52,91.21,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00812,Outback_72305,Weekend Offer,41.91,2023-07-25,2026-09-07,46.19,80.95,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00813,Texas_78717,Weekend Offer,44.3,2020-11-12,2029-09-03,20.76,47.94,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00814,Red_78706,Limited Time Offer,14.55,2024-01-04,2025-06-26,79.65,7.57,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00815,Chili's_68539,Holiday Discount,49.65,2024-10-09,2027-05-20,29.37,44.0,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00816,The_96230,Special Deal,40.69,2023-01-11,2029-02-09,53.71,44.62,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00817,Panera_30808,Holiday Discount,29.21,2021-05-16,2026-09-09,63.88,44.7,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00818,Chipotle_67982,Limited Time Offer,18.06,2022-11-26,2027-10-06,78.45,86.61,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00819,Olive_4621,Holiday Discount,43.0,2023-07-08,2026-04-27,22.92,64.28,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00820,Buffalo_69314,Weekend Offer,38.07,2022-05-12,2026-02-03,64.81,72.89,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00821,Olive_82671,Special Deal,35.34,2022-12-14,2028-11-25,94.35,57.86,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00822,Buffalo_32784,Holiday Discount,45.26,2020-12-14,2027-10-16,28.06,12.76,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00823,The_4700,Special Deal,40.34,2024-07-24,2028-10-01,62.75,33.64,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00824,Olive_65391,Festive Sale,24.01,2023-02-09,2028-01-16,14.38,22.99,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00825,The_40290,Special Deal,36.09,2022-10-09,2027-01-11,47.98,45.47,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00826,Panera_98428,Festive Sale,27.96,2021-04-06,2029-01-01,67.32,9.94,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00827,The_27930,Limited Time Offer,44.07,2024-07-25,2025-02-08,11.26,61.59,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00828,Chipotle_33402,Weekend Offer,37.18,2020-08-11,2027-10-10,58.84,73.7,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00829,Outback_17375,Special Deal,14.91,2020-07-03,2025-04-22,32.22,66.92,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00830,Red_6746,Festive Sale,46.79,2024-06-04,2028-07-04,98.43,48.12,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00831,Chipotle_76782,Weekend Offer,46.64,2023-10-29,2029-03-11,50.82,87.35,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00832,P.F._15743,Holiday Discount,12.38,2021-01-08,2027-08-23,20.39,85.41,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00833,Buffalo_53674,Festive Sale,12.92,2021-02-03,2025-07-17,70.44,46.11,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00834,Outback_97465,Special Deal,14.01,2023-12-08,2026-07-21,58.81,99.98,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00835,Panera_41818,Limited Time Offer,47.4,2021-12-31,2027-01-09,39.89,13.37,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00836,Chipotle_86802,Special Deal,21.63,2021-07-24,2027-02-02,10.74,21.27,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00837,Chili's_27199,Special Deal,19.58,2023-05-30,2027-04-05,49.38,99.53,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00838,Chipotle_55852,Festive Sale,10.14,2021-11-29,2025-10-25,14.71,96.12,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00839,Chili's_79389,Holiday Discount,41.75,2021-07-05,2025-08-27,88.14,6.8,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00840,P.F._13083,Weekend Offer,18.03,2021-06-30,2026-04-28,40.52,72.54,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00841,Red_57786,Holiday Discount,37.01,2020-02-02,2026-11-25,11.45,97.05,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00842,Olive_17121,Festive Sale,41.6,2023-12-21,2028-11-10,28.1,84.77,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00843,Red_76216,Limited Time Offer,11.69,2020-12-04,2028-11-22,97.13,77.65,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00844,Panera_91048,Festive Sale,45.17,2023-11-12,2029-02-09,44.81,6.76,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00845,Outback_42845,Weekend Offer,31.52,2021-03-22,2026-10-11,75.92,65.1,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00846,The_7530,Special Deal,38.01,2023-05-24,2028-09-30,55.88,33.08,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00847,Red_73246,Special Deal,37.19,2022-08-26,2026-12-01,29.58,48.67,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00848,P.F._58513,Limited Time Offer,36.7,2021-11-12,2025-10-02,76.2,91.56,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00849,Panera_37628,Weekend Offer,29.44,2024-02-03,2025-06-03,84.95,95.35,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00850,P.F._42923,Limited Time Offer,8.89,2020-11-20,2028-03-19,49.84,47.0,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00851,The_32010,Limited Time Offer,6.91,2021-03-28,2028-05-17,99.46,35.4,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00852,Red_25686,Weekend Offer,32.94,2023-01-26,2029-12-19,97.2,39.24,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00853,Chipotle_95602,Festive Sale,6.9,2023-01-06,2028-01-26,45.83,45.12,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00854,Panera_97228,Festive Sale,16.83,2023-10-10,2025-03-21,78.5,62.72,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00855,Panera_23018,Special Deal,9.36,2020-03-02,2025-02-06,23.38,77.0,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00856,Chipotle_65652,Festive Sale,16.52,2024-02-13,2025-12-25,17.82,62.21,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00857,Panera_77798,Festive Sale,5.62,2024-04-27,2026-05-30,35.36,82.97,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00858,Buffalo_64304,Festive Sale,31.83,2024-04-06,2029-07-16,13.99,10.23,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00859,Buffalo_9104,Limited Time Offer,40.77,2020-09-21,2028-09-17,90.06,43.55,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00860,Chili's_91269,Holiday Discount,8.29,2021-07-25,2025-09-10,34.31,25.82,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00861,Texas_84787,Special Deal,11.02,2023-07-20,2025-09-03,92.19,34.68,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00862,Olive_98061,Special Deal,31.6,2023-12-05,2026-05-05,60.55,72.45,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00863,The_33660,Special Deal,37.93,2024-06-29,2025-11-19,80.62,64.58,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00864,Buffalo_25994,Festive Sale,42.38,2024-05-06,2028-09-18,35.58,33.87,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00865,Olive_68261,Special Deal,34.31,2023-10-26,2028-03-21,52.93,57.92,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00866,Outback_66405,Festive Sale,35.23,2023-04-15,2027-10-30,89.89,10.53,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00867,Outback_6155,Special Deal,30.55,2022-04-29,2028-07-11,30.21,14.82,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00868,The_45930,Special Deal,41.15,2020-06-05,2029-05-11,38.28,59.77,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00869,P.F._7843,Holiday Discount,10.97,2023-03-01,2026-03-06,74.1,83.29,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00870,Chili's_50679,Special Deal,40.59,2021-11-23,2026-05-28,14.76,16.94,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00871,The_64620,Limited Time Offer,6.73,2022-05-29,2027-03-25,76.54,70.16,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00872,Buffalo_86674,Special Deal,14.6,2020-08-18,2026-11-30,34.61,86.81,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00873,Chili's_96769,Special Deal,34.5,2023-06-15,2026-10-06,40.97,22.59,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00874,Outback_71625,Special Deal,5.5,2024-02-27,2025-09-11,39.45,10.46,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00875,Chili's_85539,Special Deal,38.66,2024-06-04,2025-03-09,16.31,17.77,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00876,Texas_78207,Special Deal,27.51,2022-04-29,2027-06-19,47.18,61.55,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00877,Buffalo_4414,Holiday Discount,47.99,2022-05-31,2027-12-07,84.32,99.8,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00878,Panera_65578,Holiday Discount,31.1,2020-10-04,2025-10-29,82.3,56.1,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00879,Texas_9767,Special Deal,5.16,2024-01-31,2029-05-19,11.5,9.75,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00880,Outback_36565,Festive Sale,46.58,2021-05-01,2029-06-17,62.49,53.73,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00881,Texas_19177,Weekend Offer,40.43,2023-01-07,2027-09-14,50.63,93.26,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00882,Buffalo_14284,Holiday Discount,45.55,2020-06-28,2028-07-11,55.2,49.83,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00883,P.F._43423,Special Deal,49.8,2023-01-12,2028-09-30,82.11,45.65,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00884,Outback_60965,Special Deal,21.51,2024-10-30,2026-04-03,98.43,8.54,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00885,P.F._66003,Weekend Offer,35.3,2022-09-22,2025-05-23,38.93,24.07,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00886,Chipotle_53092,Limited Time Offer,37.78,2020-01-06,2027-08-25,75.77,15.79,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00887,The_23180,Special Deal,26.67,2020-09-01,2025-04-29,17.55,79.7,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00888,Outback_74555,Limited Time Offer,9.13,2023-08-22,2026-07-31,60.67,59.77,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00889,Chili's_41249,Holiday Discount,49.13,2022-09-09,2026-12-17,23.38,99.24,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00890,Texas_7247,Limited Time Offer,29.09,2023-10-04,2028-02-17,27.66,23.35,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00891,Texas_48577,Limited Time Offer,7.03,2023-09-06,2026-11-24,40.14,16.43,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00892,P.F._13383,Limited Time Offer,23.33,2023-06-27,2027-09-23,75.86,26.95,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00893,Olive_69471,Festive Sale,34.01,2024-10-29,2029-07-10,23.66,47.95,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00894,Texas_1957,Holiday Discount,19.36,2022-05-17,2025-09-16,67.52,93.71,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00895,P.F._34463,Festive Sale,11.48,2023-05-04,2025-12-17,97.47,48.77,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00896,Panera_52538,Festive Sale,25.6,2023-02-28,2026-04-24,36.97,24.63,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00897,Red_55626,Limited Time Offer,15.49,2024-04-11,2026-02-17,63.0,48.5,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00898,Buffalo_45284,Weekend Offer,31.51,2022-01-23,2029-04-07,21.94,13.43,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00899,Outback_46255,Festive Sale,18.24,2020-11-03,2028-09-04,45.57,26.66,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00900,Panera_75928,Weekend Offer,13.88,2023-07-05,2025-05-10,42.71,66.63,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00901,Texas_24197,Holiday Discount,9.16,2024-07-10,2026-07-27,55.87,50.24,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00902,Olive_33341,Weekend Offer,26.68,2023-02-14,2025-08-07,20.29,72.27,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00903,Buffalo_76694,Holiday Discount,37.22,2024-11-23,2026-12-11,48.5,5.95,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00904,Texas_25547,Weekend Offer,25.74,2023-05-10,2025-09-04,47.15,21.1,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00905,Red_63946,Special Deal,24.52,2022-04-22,2027-12-05,67.47,33.53,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00906,Panera_18138,Limited Time Offer,11.15,2020-01-11,2025-05-14,89.11,63.28,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00907,Chili's_25749,Special Deal,26.67,2022-08-13,2029-06-20,45.63,63.3,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00908,Buffalo_63094,Festive Sale,19.38,2022-01-28,2026-11-30,66.64,45.84,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00909,Olive_95891,Weekend Offer,25.14,2020-12-13,2025-05-01,72.36,74.75,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00910,Outback_48925,Holiday Discount,31.5,2020-04-30,2028-08-01,80.22,80.97,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00911,Red_44036,Limited Time Offer,48.51,2021-09-23,2028-12-03,10.27,92.01,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00912,Olive_46351,Holiday Discount,12.61,2021-07-26,2027-08-07,41.75,9.43,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00913,Chili's_31989,Holiday Discount,37.85,2022-10-18,2027-03-04,57.84,37.6,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00914,Panera_70418,Holiday Discount,23.75,2022-11-06,2025-09-02,54.93,45.19,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00915,The_61580,Weekend Offer,36.38,2022-07-27,2026-10-10,52.97,81.94,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00916,Chipotle_9692,Special Deal,42.97,2020-07-18,2028-12-26,51.73,88.74,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00917,Red_71286,Festive Sale,27.55,2021-04-26,2029-09-06,67.09,41.66,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00918,Outback_7535,Special Deal,9.95,2022-07-21,2027-06-07,23.12,82.97,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00919,Buffalo_30214,Special Deal,23.86,2024-11-07,2028-10-24,16.6,41.41,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00920,Red_51266,Festive Sale,47.69,2020-08-04,2026-12-15,13.99,14.52,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00921,Chipotle_66012,Limited Time Offer,20.39,2024-02-02,2025-03-03,50.31,60.39,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00922,Olive_37581,Special Deal,44.7,2022-03-14,2028-02-06,10.08,84.43,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00923,P.F._49823,Special Deal,27.98,2024-07-27,2025-08-11,22.2,58.8,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00924,Panera_67808,Festive Sale,21.86,2023-12-22,2027-09-23,39.6,17.24,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00925,Outback_72415,Special Deal,33.26,2020-02-13,2029-07-19,28.98,66.22,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00926,Chipotle_27262,Limited Time Offer,37.14,2023-04-15,2025-07-13,47.58,59.55,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00927,Chipotle_6762,Festive Sale,9.42,2020-11-29,2026-09-22,13.76,64.11,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00928,P.F._24843,Special Deal,12.6,2023-11-29,2029-10-01,26.16,42.67,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00929,Outback_21035,Limited Time Offer,13.43,2024-10-22,2026-06-30,58.03,21.32,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00930,Red_46206,Limited Time Offer,28.73,2020-12-05,2027-02-20,89.45,28.47,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00931,Chipotle_70562,Special Deal,5.48,2023-01-30,2029-05-06,28.98,11.9,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00932,Outback_18155,Special Deal,41.85,2023-03-15,2027-03-24,42.54,91.49,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00933,P.F._90243,Limited Time Offer,20.08,2023-05-29,2027-08-06,78.57,12.65,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00934,Texas_5547,Weekend Offer,11.27,2024-04-25,2026-02-24,54.93,14.07,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00935,Buffalo_51714,Holiday Discount,40.6,2020-01-08,2028-02-15,31.1,46.11,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00936,Chipotle_73102,Weekend Offer,26.49,2024-10-29,2025-02-14,32.08,5.11,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00937,Chili's_19099,Holiday Discount,47.8,2024-09-09,2026-01-15,84.45,89.7,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00938,Outback_76535,Festive Sale,7.37,2024-02-14,2029-07-13,15.34,95.79,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00939,Chipotle_90562,Limited Time Offer,47.05,2023-01-31,2029-12-18,78.25,41.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00940,Outback_86735,Festive Sale,6.81,2024-02-01,2026-01-13,67.98,63.04,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00941,Olive_79081,Special Deal,34.3,2022-08-25,2026-06-01,82.27,62.05,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00942,P.F._59633,Special Deal,13.5,2021-04-15,2025-02-07,40.25,54.85,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00943,The_67670,Holiday Discount,20.81,2020-12-08,2025-11-03,53.0,95.13,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00944,The_51560,Limited Time Offer,43.67,2023-02-25,2028-08-28,99.3,75.16,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00945,The_71590,Weekend Offer,26.33,2023-03-16,2029-09-02,49.8,50.79,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00946,Olive_49631,Weekend Offer,39.04,2021-10-19,2026-04-23,85.75,72.59,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00947,Chipotle_51152,Limited Time Offer,44.38,2021-07-16,2029-12-29,62.38,10.13,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00948,Red_19676,Weekend Offer,8.23,2024-06-03,2026-10-28,41.36,13.91,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00949,Panera_48548,Festive Sale,16.98,2021-12-31,2025-04-14,25.4,12.1,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00950,Chili's_49269,Holiday Discount,38.02,2022-07-08,2029-09-22,99.26,82.53,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00951,Chipotle_48112,Holiday Discount,21.85,2024-12-30,2028-11-22,88.5,63.49,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00952,The_8070,Holiday Discount,14.61,2024-12-13,2028-09-19,52.37,80.22,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00953,The_97770,Festive Sale,18.64,2023-07-11,2028-10-19,87.52,18.1,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00954,P.F._5403,Weekend Offer,16.03,2024-05-11,2029-11-06,76.55,38.0,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00955,Buffalo_41704,Weekend Offer,37.35,2022-10-20,2027-11-21,94.68,75.89,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00956,P.F._6053,Festive Sale,28.39,2024-07-18,2027-02-11,83.79,65.03,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00957,The_3540,Special Deal,11.04,2020-03-30,2027-07-22,11.38,37.47,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00958,Texas_13517,Special Deal,48.28,2022-08-20,2027-10-03,67.39,95.42,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00959,Panera_10708,Limited Time Offer,35.03,2024-02-22,2025-08-07,80.91,73.63,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00960,Red_29696,Holiday Discount,36.29,2022-12-22,2026-04-05,85.55,7.6,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00961,Olive_20821,Special Deal,11.65,2021-02-03,2026-10-15,58.9,44.8,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00962,Outback_84435,Festive Sale,12.3,2020-01-02,2025-08-24,58.96,19.37,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00963,Texas_94537,Festive Sale,12.15,2024-06-25,2028-03-16,58.11,44.43,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00964,Panera_82648,Festive Sale,21.76,2020-02-15,2026-01-11,19.73,36.29,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00965,Outback_55,Festive Sale,43.27,2020-11-17,2029-04-16,67.81,89.27,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00966,Olive_15531,Weekend Offer,14.22,2024-10-16,2028-02-08,14.96,69.03,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00967,Buffalo_8274,Holiday Discount,43.99,2024-03-15,2027-09-29,55.45,66.83,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00968,Chili's_83829,Special Deal,40.53,2021-01-04,2027-04-15,94.24,86.24,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00969,Olive_23851,Festive Sale,31.9,2021-09-17,2028-10-30,89.15,53.79,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00970,Chipotle_64752,Holiday Discount,11.23,2024-04-13,2029-10-21,55.81,11.89,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00971,Outback_32735,Weekend Offer,27.98,2021-06-11,2028-06-11,42.4,16.64,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00972,Chipotle_78432,Weekend Offer,11.59,2024-12-01,2026-11-26,86.21,30.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00973,Texas_4757,Weekend Offer,26.73,2023-03-25,2029-05-14,21.59,20.34,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00974,The_12060,Limited Time Offer,11.38,2022-04-09,2029-05-09,38.67,30.96,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00975,Buffalo_74154,Weekend Offer,16.79,2024-09-26,2029-06-23,50.55,78.31,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00976,Outback_81015,Limited Time Offer,14.04,2024-01-26,2028-05-23,23.87,10.07,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00977,The_19990,Festive Sale,27.58,2022-05-19,2025-10-25,56.14,54.34,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00978,P.F._42163,Limited Time Offer,7.99,2024-11-25,2028-06-24,74.66,31.44,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00979,Red_62976,Festive Sale,13.39,2023-05-13,2029-07-04,81.56,78.09,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00980,The_26750,Festive Sale,15.5,2020-09-30,2026-06-25,10.82,64.54,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00981,Texas_13237,Weekend Offer,45.92,2024-04-15,2025-10-27,74.21,83.91,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00982,Buffalo_67904,Limited Time Offer,43.13,2021-01-31,2026-03-27,55.96,32.46,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00983,Red_15926,Festive Sale,25.5,2020-07-29,2029-09-26,91.6,41.7,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00984,Outback_40375,Weekend Offer,5.21,2020-01-20,2029-03-29,15.66,88.76,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00985,Chili's_38639,Limited Time Offer,44.09,2020-01-02,2029-04-28,58.17,72.8,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00986,Outback_13675,Limited Time Offer,14.75,2021-09-04,2030-01-01,62.16,90.51,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00987,Texas_56057,Special Deal,49.38,2022-12-06,2025-12-20,91.03,42.39,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00988,Panera_56888,Festive Sale,9.09,2022-05-25,2025-02-14,32.86,45.64,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00989,Red_67176,Weekend Offer,19.23,2024-09-21,2028-02-03,75.64,95.7,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00990,P.F._20563,Holiday Discount,40.72,2021-06-21,2028-11-28,51.64,59.07,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00991,Olive_37381,Holiday Discount,23.46,2024-09-16,2028-12-17,11.82,29.91,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00992,Olive_92591,Festive Sale,23.46,2022-10-17,2026-11-01,16.45,14.66,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00993,Chipotle_15602,Weekend Offer,28.93,2022-12-23,2026-10-03,86.87,89.77,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00994,P.F._12333,Limited Time Offer,26.9,2022-09-16,2028-09-28,99.25,38.54,Offer valid on select items only. Terms and conditions apply.,False
+PROMO00995,Chili's_49009,Holiday Discount,15.22,2023-07-12,2028-04-14,69.53,28.13,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00996,Outback_82425,Limited Time Offer,38.39,2024-06-17,2026-05-18,14.89,85.03,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00997,Outback_32665,Weekend Offer,6.18,2022-09-03,2025-10-10,81.12,9.96,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00998,Red_29416,Weekend Offer,44.48,2021-11-01,2026-07-12,45.32,14.03,Offer valid on select items only. Terms and conditions apply.,True
+PROMO00999,Panera_168,Festive Sale,33.87,2021-07-25,2027-11-03,14.9,73.01,Offer valid on select items only. Terms and conditions apply.,True
+PROMO01000,The_78280,Special Deal,25.46,2022-08-09,2028-06-06,70.72,11.08,Offer valid on select items only. Terms and conditions apply.,True
