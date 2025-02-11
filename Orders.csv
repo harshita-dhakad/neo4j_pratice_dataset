@@ -1,4 +1,4 @@
- order_id,user_id,restaurant_id,payment_id,total_price,status,timestamp
+order_id,user_id,restaurant_id,payment_id,total_price,status,timestamp
 1,5,1,A123B456,85.47,confirmed,2024-01-15 12:35:22
 2,12,1,C789D012,89.59,canceled,2024-02-01 08:22:17
 3,3,1,X987Y654,43.68,confirmed,2024-01-22 16:47:55
