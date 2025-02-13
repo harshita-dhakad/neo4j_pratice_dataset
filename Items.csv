@@ -1,18 +1,18 @@
 item_id,restaurant_id,name,price,category,description,availability,preparation_time
 1,1,Caesar Salad,9.3,Salad,Breaded chicken in marinara sauce,True,11
-2,1,Margherita Pizza,17.16,Burger,Creamy pasta with alfredo sauce,True,21
-3,1,Penne Arrabbiata,6.89,Burger,Grilled chicken in tortilla wrap,False,30
-4,1,Grilled Salmon,7.24,Soup,Spicy penne pasta with tomato sauce,True,10
+2,1,Tomato Pizza,17.16,Burger,Creamy pasta with alfredo sauce,True,21
+3,1,Penne Pasta,6.89,Burger,Grilled chicken in tortilla wrap,False,30
+4,1,Grilled Chicken,7.24,Soup,Spicy penne pasta with tomato sauce,True,10
 5,1,Penne Arrabbiata,8.4,Appetizer,Grilled chicken in tortilla wrap,True,19
 6,1,Margherita Pizza,6.19,Pasta,Battered fish served with fries,True,15
 7,1,Vegetable Stir Fry,13.26,Soup,Vegetable soup with pasta,False,29
 8,1,Minestrone Soup,10.01,Pasta,Creamy pasta with alfredo sauce,False,29
 9,1,Grilled Salmon,15.49,Pizza,Vegetable soup with pasta,True,26
-10,1,Caesar Salad,9.48,Appetizer,Crispy garlic bread,False,16
-11,2,Fettuccine Alfredo,18.29,Side Dish,Breaded chicken in marinara sauce,True,29
+10,1,Paneer,9.48,Appetizer,Crispy garlic bread,False,16
+11,2,Fettuccine Pasta,18.29,Side Dish,Breaded chicken in marinara sauce,True,29
 12,2,Cheeseburger,8.45,Wrap,Breaded chicken in marinara sauce,True,28
 13,2,Vegetable Stir Fry,5.11,Pizza,Juicy beef patty with cheese,True,29
-14,2,Eggplant Parmesan,15.63,Wrap,Crispy fried chicken,False,15
+14,2,Eggplant Curry,15.63,Wrap,Crispy fried chicken,False,15
 15,2,Caesar Salad,7.26,Pizza,Battered fish served with fries,False,17
 16,2,Margherita Pizza,16.93,Pasta,Creamy pasta with alfredo sauce,True,15
 17,2,Fettuccine Alfredo,15.4,Main Course,Crispy fried chicken,False,30
@@ -21,16 +21,16 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 20,2,Eggplant Parmesan,19.22,Burger,Creamy pasta with alfredo sauce,True,13
 21,3,Vegetable Lasagna,5.99,Side Dish,Battered fish served with fries,True,20
 22,3,Chicken Wrap,13.05,Main Course,Fresh mozzarella with basil,False,18
-23,3,Fried Chicken,13.14,Taco,Toasted bread with cheese,True,28
-24,3,Caesar Salad,12.59,Soup,Vegetable soup with pasta,True,12
-25,3,Fried Chicken,15.3,Pizza,Breaded chicken in marinara sauce,True,10
+23,3,Fried Rice,13.14,Taco,Toasted bread with cheese,True,28
+24,3,Caesar Chicken,12.59,Soup,Vegetable soup with pasta,True,12
+25,3,Fried Chips,15.3,Pizza,Breaded chicken in marinara sauce,True,10
 26,3,Chicken Parmesan,16.83,Salad,Toasted bread with cheese,False,23
-27,3,Fettuccine Alfredo,15.57,Side Dish,Spicy tuna rolls with rice,True,26
+27,3,Fettuccine Pasta,15.57,Side Dish,Spicy tuna rolls with rice,True,26
 28,3,Fried Chicken,15.91,Main Course,Creamy pasta with alfredo sauce,False,12
 29,3,Beef Tacos,9.86,Pizza,Crispy fried chicken,True,28
 30,3,Vegetable Stir Fry,8.4,Main Course,Layered pasta with tomato sauce,False,22
 31,4,Caesar Salad,12.77,Main Course,Crispy fried chicken,True,17
-32,4,Spicy Tuna Roll,16.23,Salad,Seasoned beef in tacos,True,28
+32,4,Spicy Chicken Roll,16.23,Salad,Seasoned beef in tacos,True,28
 33,4,Fettuccine Alfredo,6.19,Main Course,Juicy beef patty with cheese,True,20
 34,4,Fish and Chips,13.39,Wrap,Grilled chicken in tortilla wrap,False,11
 35,4,Grilled Salmon,6.94,Side Dish,Classic pasta with rich sauce,True,16
@@ -44,24 +44,24 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 43,5,Spaghetti Carbonara,5.44,Salad,Seasoned beef in tacos,True,25
 44,5,Eggplant Parmesan,11.49,Appetizer,Seasoned beef in tacos,True,20
 45,5,Chicken Parmesan,5.83,Sushi,Breaded chicken in marinara sauce,True,18
-46,5,Garlic Bread,5.64,Sushi,Grilled salmon with seasoning,True,16
+46,5,Garlic Naan,5.64,Sushi,Grilled salmon with seasoning,True,16
 47,5,Fish and Chips,7.36,Pizza,Classic pasta with rich sauce,False,23
 48,5,Grilled Cheese,9.28,Taco,Fried eggplant with marinara,True,11
-49,5,Chicken Wrap,7.13,Pizza,Fresh mozzarella with basil,True,21
-50,5,Fried Chicken,18.73,Wrap,Layered pasta with tomato sauce,False,13
+49,5,Chicken Salad,7.13,Pizza,Fresh mozzarella with basil,True,21
+50,5,Fried Rice,18.73,Wrap,Layered pasta with tomato sauce,False,13
 51,6,Fried Chicken,17.65,Sushi,Creamy pasta with alfredo sauce,True,28
-52,6,Chicken Wrap,8.03,Side Dish,Seasoned beef in tacos,True,26
+52,6,Chicken Salad,8.03,Side Dish,Seasoned beef in tacos,True,26
 53,6,Garlic Bread,19.13,Wrap,Spicy penne pasta with tomato sauce,False,25
 54,6,Margherita Pizza,13.17,Taco,Grilled salmon with seasoning,False,16
 55,6,Vegetable Lasagna,16.12,Salad,Fried eggplant with marinara,True,22
 56,6,Minestrone Soup,16.8,Soup,Grilled salmon with seasoning,False,18
 57,6,Grilled Salmon,7.03,Side Dish,Toasted bread with cheese,True,18
-58,6,Fish and Chips,13.48,Sushi,Fried eggplant with marinara,True,30
+58,6,Fish Curry,13.48,Sushi,Fried eggplant with marinara,True,30
 59,6,Chicken Wrap,18.85,Soup,Crispy garlic bread,True,18
 60,6,Fish and Chips,19.95,Salad,Crispy fried chicken,False,10
 61,7,Fried Chicken,17.59,Soup,Classic pasta with rich sauce,False,18
-62,7,Vegetable Lasagna,15.05,Taco,Crispy garlic bread,True,22
-63,7,Garlic Bread,17.34,Wrap,Grilled chicken in tortilla wrap,True,11
+62,7,Vegetable Salad,15.05,Taco,Crispy garlic bread,True,22
+63,7,Garlic Naan,17.34,Wrap,Grilled chicken in tortilla wrap,True,11
 64,7,Garlic Bread,9.29,Main Course,Creamy pasta with alfredo sauce,True,30
 65,7,Caprese Salad,12.75,Wrap,Stir-fried vegetables with soy sauce,True,28
 66,7,Chicken Parmesan,16.4,Pizza,Seasoned beef in tacos,True,27
@@ -71,7 +71,7 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 70,7,Fettuccine Alfredo,15.72,Sushi,Juicy beef patty with cheese,False,22
 71,8,Vegetable Lasagna,19.18,Pasta,Breaded chicken in marinara sauce,False,17
 72,8,Chicken Wrap,6.51,Taco,Fresh salad with caesar dressing,True,20
-73,8,Spaghetti Carbonara,11.7,Soup,Spicy tuna rolls with rice,False,26
+73,8,Spaghetti,11.7,Soup,Spicy tuna rolls with rice,False,26
 74,8,Penne Arrabbiata,17.04,Sushi,Fresh salad with caesar dressing,True,19
 75,8,Chicken Parmesan,6.54,Appetizer,Traditional pizza with mozzarella,True,17
 76,8,Eggplant Parmesan,15.61,Burger,Creamy pasta with alfredo sauce,True,27
@@ -80,10 +80,10 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 79,8,Vegetable Stir Fry,14.2,Sushi,Crispy garlic bread,True,11
 80,8,Garlic Bread,13.63,Pasta,Toasted bread with cheese,True,13
 81,9,Fettuccine Alfredo,8.76,Pizza,Layered pasta with tomato sauce,True,11
-82,9,Spaghetti Carbonara,16.62,Taco,Juicy beef patty with cheese,False,22
+82,9,Spaghetti,16.62,Taco,Juicy beef patty with cheese,False,22
 83,9,Spaghetti Carbonara,15.7,Appetizer,Classic pasta with rich sauce,True,20
 84,9,Spicy Tuna Roll,13.77,Salad,Juicy beef patty with cheese,False,20
-85,9,Minestrone Soup,17.09,Taco,Layered pasta with tomato sauce,False,13
+85,9,Chicken Soup,17.09,Taco,Layered pasta with tomato sauce,False,13
 86,9,Chicken Wrap,10.25,Side Dish,Breaded chicken in marinara sauce,True,30
 87,9,Caesar Salad,15.92,Soup,Creamy pasta with alfredo sauce,False,30
 88,9,Margherita Pizza,19.86,Taco,Traditional pizza with mozzarella,True,19
@@ -99,22 +99,22 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 98,10,Chicken Parmesan,13.38,Main Course,Vegetable soup with pasta,True,29
 99,10,Eggplant Parmesan,12.09,Salad,Crispy fried chicken,False,30
 100,10,Grilled Salmon,14.96,Side Dish,Fresh mozzarella with basil,False,29
-101,11,Penne Arrabbiata,15.89,Burger,Creamy pasta with alfredo sauce,True,17
+101,11,Penne Grilled Arrabbiata,15.89,Burger,Creamy pasta with alfredo sauce,True,17
 102,11,Penne Arrabbiata,18.11,Salad,Grilled chicken in tortilla wrap,False,26
-103,11,Grilled Cheese,18.37,Main Course,Spicy tuna rolls with rice,True,29
+103,11,Penne Grilled Cheese,18.37,Main Course,Spicy tuna rolls with rice,True,29
 104,11,Grilled Salmon,10.08,Appetizer,Stir-fried vegetables with soy sauce,False,16
-105,11,Chicken Parmesan,12.05,Side Dish,Stir-fried vegetables with soy sauce,False,10
+105,11,Penne Chicken Parmesan,12.05,Side Dish,Stir-fried vegetables with soy sauce,False,10
 106,11,Grilled Cheese,6.83,Salad,Grilled salmon with seasoning,True,30
 107,11,Minestrone Soup,6.05,Appetizer,Fried eggplant with marinara,False,16
 108,11,Margherita Pizza,5.41,Taco,Toasted bread with cheese,False,27
 109,11,Chicken Wrap,5.12,Side Dish,Fried eggplant with marinara,True,15
-110,11,Grilled Cheese,11.37,Main Course,Vegetable soup with pasta,False,16
+110,11,Grilled Chicken,11.37,Main Course,Vegetable soup with pasta,False,16
 111,12,Spaghetti Carbonara,7.42,Pizza,Vegetable soup with pasta,False,21
-112,12,Chicken Parmesan,13.99,Appetizer,Fresh mozzarella with basil,False,21
+112,12,Chicken Penne,13.99,Appetizer,Fresh mozzarella with basil,False,21
 113,12,Chicken Parmesan,9.79,Wrap,Seasoned beef in tacos,False,21
-114,12,Grilled Cheese,19.93,Pasta,Spicy tuna rolls with rice,True,23
-115,12,Margherita Pizza,16.78,Burger,Battered fish served with fries,False,27
-116,12,Fried Chicken,6.99,Sushi,Grilled salmon with seasoning,False,17
+114,12,Grilled Penne Cheese,19.93,Pasta,Spicy tuna rolls with rice,True,23
+115,12,Penne Pizza,16.78,Burger,Battered fish served with fries,False,27
+116,12,Fried Rice,6.99,Sushi,Grilled salmon with seasoning,False,17
 117,12,Fried Chicken,17.14,Pasta,Seasoned beef in tacos,False,11
 118,12,Vegetable Lasagna,19.83,Taco,Juicy beef patty with cheese,True,19
 119,12,Minestrone Soup,16.09,Taco,Fresh salad with caesar dressing,True,23
@@ -126,11 +126,11 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 125,13,Beef Tacos,15.62,Sushi,Stir-fried vegetables with soy sauce,True,23
 126,13,Spaghetti Carbonara,9.37,Wrap,Battered fish served with fries,True,20
 127,13,Vegetable Lasagna,11.14,Soup,Battered fish served with fries,True,21
-128,13,Chicken Wrap,18.29,Main Course,Grilled salmon with seasoning,True,20
+128,13,Chicken Salad,18.29,Main Course,Grilled salmon with seasoning,True,20
 129,13,Penne Arrabbiata,6.16,Burger,Breaded chicken in marinara sauce,True,30
-130,13,Vegetable Stir Fry,5.62,Sushi,Fried eggplant with marinara,True,25
-131,14,Minestrone Soup,11.91,Burger,Breaded chicken in marinara sauce,True,23
-132,14,Fried Chicken,16.07,Soup,Breaded chicken in marinara sauce,False,27
+130,13,Vegetable Salad Fry,5.62,Sushi,Fried eggplant with marinara,True,25
+131,14,Tomato Soup,11.91,Burger,Breaded chicken in marinara sauce,True,23
+132,14,Fried rice,16.07,Soup,Breaded chicken in marinara sauce,False,27
 133,14,Cheeseburger,12.92,Main Course,Spicy penne pasta with tomato sauce,False,30
 134,14,Fried Chicken,10.91,Wrap,Traditional pizza with mozzarella,False,29
 135,14,Chicken Parmesan,7.94,Soup,Classic pasta with rich sauce,False,13
@@ -139,35 +139,35 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 138,14,Margherita Pizza,15.16,Pizza,Stir-fried vegetables with soy sauce,False,26
 139,14,Eggplant Parmesan,18.1,Soup,Fresh mozzarella with basil,False,28
 140,14,Chicken Wrap,19.99,Main Course,Crispy fried chicken,False,11
-141,15,Spicy Tuna Roll,7.69,Main Course,Vegetable soup with pasta,True,17
+141,15,Spicy Curry,7.69,Main Course,Vegetable soup with pasta,True,17
 142,15,Vegetable Lasagna,13.08,Soup,Spicy tuna rolls with rice,True,13
-143,15,Fettuccine Alfredo,6.23,Soup,Stir-fried vegetables with soy sauce,True,12
+143,15,Pasta Alfredo,6.23,Soup,Stir-fried vegetables with soy sauce,True,12
 144,15,Fettuccine Alfredo,7.21,Side Dish,Juicy beef patty with cheese,True,29
 145,15,Fish and Chips,5.01,Soup,Crispy garlic bread,True,23
 146,15,Penne Arrabbiata,6.23,Pasta,Grilled salmon with seasoning,False,13
 147,15,Spicy Tuna Roll,5.68,Wrap,Juicy beef patty with cheese,False,28
 148,15,Garlic Bread,6.37,Main Course,Crispy garlic bread,False,10
 149,15,Caprese Salad,17.19,Salad,Fried eggplant with marinara,True,25
-150,15,Vegetable Lasagna,10.96,Pizza,Toasted bread with cheese,True,13
+150,15,Vegetable Salad,10.96,Pizza,Toasted bread with cheese,True,13
 151,16,Eggplant Parmesan,13.78,Wrap,Spicy tuna rolls with rice,True,28
-152,16,Caprese Salad,16.02,Appetizer,Traditional pizza with mozzarella,True,28
-153,16,Garlic Bread,16.08,Side Dish,Layered pasta with tomato sauce,True,12
+152,16,Chicken Salad,16.02,Appetizer,Traditional pizza with mozzarella,True,28
+153,16,Garlic Naan,16.08,Side Dish,Layered pasta with tomato sauce,True,12
 154,16,Grilled Cheese,11.64,Appetizer,Crispy garlic bread,True,29
 155,16,Minestrone Soup,8.79,Salad,Fresh mozzarella with basil,False,14
-156,16,Margherita Pizza,6.37,Soup,Seasoned beef in tacos,False,21
+156,16,Onion Pizza,6.37,Soup,Seasoned beef in tacos,False,21
 157,16,Margherita Pizza,8.17,Appetizer,Layered pasta with tomato sauce,True,14
 158,16,Caesar Salad,19.42,Pizza,Toasted bread with cheese,True,10
 159,16,Vegetable Lasagna,6.46,Main Course,Traditional pizza with mozzarella,False,29
 160,16,Fried Chicken,10.51,Sushi,Grilled salmon with seasoning,True,26
-161,17,Minestrone Soup,18.92,Sushi,Creamy pasta with alfredo sauce,False,29
-162,17,Beef Tacos,9.03,Pasta,Juicy beef patty with cheese,True,19
-163,17,Beef Tacos,11.37,Appetizer,Seasoned beef in tacos,True,13
+161,17,Tomato Soup,18.92,Sushi,Creamy pasta with alfredo sauce,False,29
+162,17,Veg Tacos,9.03,Pasta,Juicy beef patty with cheese,True,19
+163,17,Chicken Tacos,11.37,Appetizer,Seasoned beef in tacos,True,13
 164,17,Beef Tacos,5.9,Taco,Stir-fried vegetables with soy sauce,False,17
 165,17,Chicken Parmesan,13.06,Salad,Grilled chicken in tortilla wrap,False,30
 166,17,Caesar Salad,7.13,Soup,Seasoned beef in tacos,False,29
 167,17,Vegetable Lasagna,5.39,Appetizer,Spicy tuna rolls with rice,False,13
 168,17,Minestrone Soup,10.24,Wrap,Stir-fried vegetables with soy sauce,False,15
-169,17,Penne Arrabbiata,8.45,Pizza,Crispy fried chicken,False,19
+169,17,Penne Pasta,8.45,Pizza,Crispy fried chicken,False,19
 170,17,Penne Arrabbiata,15.02,Sushi,Seasoned beef in tacos,False,12
 171,18,Minestrone Soup,10.87,Pasta,Toasted bread with cheese,True,14
 172,18,Fish and Chips,14.65,Sushi,Fresh mozzarella with basil,True,15
@@ -175,11 +175,11 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 174,18,Cheeseburger,18.58,Pizza,Battered fish served with fries,True,13
 175,18,Vegetable Stir Fry,11.7,Side Dish,Creamy pasta with alfredo sauce,False,19
 176,18,Eggplant Parmesan,15.91,Appetizer,Spicy tuna rolls with rice,True,24
-177,18,Caprese Salad,11.9,Salad,Juicy beef patty with cheese,True,27
+177,18,Chicken Salad,11.9,Salad,Juicy beef patty with cheese,True,27
 178,18,Chicken Wrap,9.65,Pizza,Battered fish served with fries,False,13
 179,18,Caprese Salad,11.49,Salad,Fried eggplant with marinara,True,15
 180,18,Vegetable Lasagna,11.03,Burger,Battered fish served with fries,False,16
-181,19,Penne Arrabbiata,6.67,Soup,Seasoned beef in tacos,False,27
+181,19,Penne Pasta,6.67,Soup,Seasoned beef in tacos,False,27
 182,19,Grilled Salmon,11.77,Side Dish,Fresh salad with caesar dressing,True,16
 183,19,Vegetable Stir Fry,5.15,Taco,Stir-fried vegetables with soy sauce,False,17
 184,19,Fish and Chips,12.53,Appetizer,Crispy fried chicken,True,19
@@ -188,11 +188,11 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 187,19,Chicken Parmesan,9.52,Salad,Toasted bread with cheese,True,14
 188,19,Minestrone Soup,12.8,Pasta,Crispy fried chicken,True,26
 189,19,Fettuccine Alfredo,10.79,Main Course,Traditional pizza with mozzarella,True,12
-190,19,Fettuccine Alfredo,17.61,Burger,Toasted bread with cheese,True,15
+190,19,Penne Alfredo,17.61,Burger,Toasted bread with cheese,True,15
 191,20,Cheeseburger,6.51,Pizza,Layered pasta with tomato sauce,True,19
 192,20,Spaghetti Carbonara,15.77,Burger,Battered fish served with fries,False,13
 193,20,Garlic Bread,18.83,Sushi,Classic pasta with rich sauce,False,18
-194,20,Fish and Chips,13.12,Wrap,Crispy fried chicken,False,14
+194,20,Fish Curry,13.12,Wrap,Crispy fried chicken,False,14
 195,20,Fish and Chips,8.85,Salad,Creamy pasta with alfredo sauce,True,30
 196,20,Caprese Salad,14.67,Soup,Stir-fried vegetables with soy sauce,False,26
 197,20,Penne Arrabbiata,8.51,Pizza,Layered pasta with tomato sauce,True,29
@@ -202,19 +202,19 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 201,21,Grilled Salmon,9.57,Burger,Breaded chicken in marinara sauce,False,21
 202,21,Beef Tacos,18.28,Soup,Breaded chicken in marinara sauce,True,21
 203,21,Spicy Tuna Roll,7.06,Pizza,Fresh mozzarella with basil,False,29
-204,21,Caesar Salad,19.6,Soup,Fried eggplant with marinara,True,13
-205,21,Beef Tacos,13.35,Wrap,Toasted bread with cheese,False,22
+204,21,Chicken Salad,19.6,Soup,Fried eggplant with marinara,True,13
+205,21,Chicken Tacos,13.35,Wrap,Toasted bread with cheese,False,22
 206,21,Chicken Parmesan,13.57,Wrap,Breaded chicken in marinara sauce,True,11
 207,21,Cheeseburger,6.85,Salad,Crispy garlic bread,True,25
 208,21,Caesar Salad,17.81,Burger,Breaded chicken in marinara sauce,True,30
-209,21,Beef Tacos,9.58,Appetizer,Battered fish served with fries,True,24
+209,21,Veg Tacos,9.58,Appetizer,Battered fish served with fries,True,24
 210,21,Grilled Cheese,10.31,Sushi,Classic pasta with rich sauce,False,15
 211,22,Garlic Bread,8.89,Salad,Crispy garlic bread,True,12
-212,22,Penne Arrabbiata,9.56,Sushi,Spicy tuna rolls with rice,True,20
-213,22,Chicken Parmesan,9.49,Wrap,Toasted bread with cheese,False,14
+212,22,Penne pasta,9.56,Sushi,Spicy tuna rolls with rice,True,20
+213,22,Chicken Curry,9.49,Wrap,Toasted bread with cheese,False,14
 214,22,Vegetable Stir Fry,8.32,Pasta,Battered fish served with fries,False,28
-215,22,Spaghetti Carbonara,14.15,Wrap,Grilled chicken in tortilla wrap,False,19
-216,22,Spicy Tuna Roll,11.05,Pizza,Creamy pasta with alfredo sauce,True,27
+215,22,Spaghetti Spicy,14.15,Wrap,Grilled chicken in tortilla wrap,False,19
+216,22,Spicy Curry,11.05,Pizza,Creamy pasta with alfredo sauce,True,27
 217,22,Spaghetti Carbonara,5.87,Pasta,Seasoned beef in tacos,True,13
 218,22,Chicken Wrap,13.2,Side Dish,Breaded chicken in marinara sauce,True,17
 219,22,Penne Arrabbiata,5.73,Burger,Layered pasta with tomato sauce,True,27
@@ -227,19 +227,19 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 226,23,Chicken Wrap,11.33,Appetizer,Traditional pizza with mozzarella,True,11
 227,23,Vegetable Stir Fry,6.5,Side Dish,Breaded chicken in marinara sauce,True,13
 228,23,Cheeseburger,6.04,Salad,Stir-fried vegetables with soy sauce,False,30
-229,23,Fried Chicken,8.28,Pasta,Grilled salmon with seasoning,False,13
+229,23,Fried rice,8.28,Pasta,Grilled salmon with seasoning,False,13
 230,23,Fried Chicken,16.95,Wrap,Layered pasta with tomato sauce,True,21
 231,24,Vegetable Lasagna,19.05,Taco,Stir-fried vegetables with soy sauce,True,24
 232,24,Caprese Salad,5.68,Pizza,Crispy fried chicken,True,22
-233,24,Cheeseburger,12.8,Burger,Seasoned beef in tacos,False,28
+233,24,Paneer Cheeseburger,12.8,Burger,Seasoned beef in tacos,False,28
 234,24,Vegetable Stir Fry,5.7,Pasta,Crispy garlic bread,True,13
 235,24,Spicy Tuna Roll,9.79,Soup,Crispy garlic bread,True,23
-236,24,Eggplant Parmesan,13.54,Burger,Vegetable soup with pasta,False,22
+236,24,Parmesan,13.54,Burger,Vegetable soup with pasta,False,22
 237,24,Eggplant Parmesan,12.37,Side Dish,Fresh salad with caesar dressing,True,12
-238,24,Beef Tacos,5.65,Salad,Crispy garlic bread,False,18
+238,24,Beef,5.65,Salad,Crispy garlic bread,False,18
 239,24,Beef Tacos,5.6,Main Course,Grilled salmon with seasoning,False,15
 240,24,Cheeseburger,11.86,Pizza,Seasoned beef in tacos,True,28
-241,25,Caprese Salad,5.96,Pizza,Fried eggplant with marinara,True,15
+241,25,Pasta Salad,5.96,Pizza,Fried eggplant with marinara,True,15
 242,25,Chicken Wrap,6.76,Salad,Stir-fried vegetables with soy sauce,False,29
 243,25,Fried Chicken,13.21,Sushi,Vegetable soup with pasta,True,10
 244,25,Fish and Chips,13.06,Burger,Traditional pizza with mozzarella,True,20
@@ -255,7 +255,7 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 254,26,Garlic Bread,19.99,Pizza,Vegetable soup with pasta,False,22
 255,26,Chicken Parmesan,6.24,Pasta,Fried eggplant with marinara,True,17
 256,26,Chicken Wrap,11.89,Wrap,Traditional pizza with mozzarella,True,10
-257,26,Grilled Cheese,17.95,Salad,Fresh salad with caesar dressing,False,14
+257,26,Grilled Chicken,17.95,Salad,Fresh salad with caesar dressing,False,14
 258,26,Caesar Salad,19.76,Sushi,Spicy tuna rolls with rice,True,15
 259,26,Spaghetti Carbonara,8.06,Taco,Grilled salmon with seasoning,False,10
 260,26,Grilled Cheese,15.37,Soup,Grilled chicken in tortilla wrap,False,23
@@ -264,14 +264,14 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 263,27,Spaghetti Carbonara,7.67,Taco,Seasoned beef in tacos,True,11
 264,27,Grilled Cheese,9.89,Appetizer,Breaded chicken in marinara sauce,False,18
 265,27,Penne Arrabbiata,14.07,Burger,Fried eggplant with marinara,True,27
-266,27,Chicken Parmesan,19.44,Taco,Traditional pizza with mozzarella,False,28
+266,27,Chicken Salad,19.44,Taco,Traditional pizza with mozzarella,False,28
 267,27,Caprese Salad,13.88,Salad,Crispy garlic bread,True,30
 268,27,Minestrone Soup,17.65,Appetizer,Fried eggplant with marinara,False,15
 269,27,Chicken Parmesan,7.13,Pasta,Breaded chicken in marinara sauce,False,29
 270,27,Vegetable Stir Fry,14.17,Side Dish,Vegetable soup with pasta,False,18
 271,28,Fettuccine Alfredo,7.01,Main Course,Spicy penne pasta with tomato sauce,False,25
-272,28,Spicy Tuna Roll,19.99,Wrap,Juicy beef patty with cheese,False,12
-273,28,Beef Tacos,5.55,Side Dish,Crispy garlic bread,True,15
+272,28,Spicy Curry,19.99,Wrap,Juicy beef patty with cheese,False,12
+273,28,Chicken Tacos,5.55,Side Dish,Crispy garlic bread,True,15
 274,28,Spicy Tuna Roll,13.32,Side Dish,Crispy garlic bread,False,14
 275,28,Fish and Chips,17.33,Appetizer,Battered fish served with fries,True,16
 276,28,Spaghetti Carbonara,12.12,Side Dish,Fresh salad with caesar dressing,True,24
@@ -279,7 +279,7 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 278,28,Grilled Cheese,16.49,Wrap,Toasted bread with cheese,True,12
 279,28,Beef Tacos,18.33,Main Course,Toasted bread with cheese,False,14
 280,28,Caesar Salad,12.46,Appetizer,Crispy garlic bread,True,21
-281,29,Vegetable Stir Fry,7.0,Main Course,Spicy tuna rolls with rice,True,29
+281,29,Vegetable Salad Fry,7.0,Main Course,Spicy tuna rolls with rice,True,29
 282,29,Fried Chicken,19.88,Main Course,Spicy penne pasta with tomato sauce,False,15
 283,29,Minestrone Soup,19.35,Sushi,Spicy tuna rolls with rice,False,15
 284,29,Grilled Cheese,15.06,Salad,Vegetable soup with pasta,False,26
@@ -291,7 +291,7 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 290,29,Penne Arrabbiata,6.7,Taco,Creamy pasta with alfredo sauce,False,14
 291,30,Cheeseburger,5.22,Wrap,Fresh mozzarella with basil,True,17
 292,30,Minestrone Soup,17.96,Sushi,Fried eggplant with marinara,False,17
-293,30,Grilled Cheese,17.64,Pizza,Grilled salmon with seasoning,False,10
+293,30,Grilled Paneer,17.64,Pizza,Grilled salmon with seasoning,False,10
 294,30,Grilled Cheese,8.81,Side Dish,Traditional pizza with mozzarella,False,12
 295,30,Minestrone Soup,5.12,Pizza,Toasted bread with cheese,True,14
 296,30,Fish and Chips,10.49,Taco,Classic pasta with rich sauce,False,29
@@ -302,7 +302,7 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 301,31,Grilled Cheese,16.98,Salad,Fresh mozzarella with basil,False,20
 302,31,Spaghetti Carbonara,10.39,Burger,Spicy penne pasta with tomato sauce,False,29
 303,31,Chicken Wrap,12.54,Side Dish,Stir-fried vegetables with soy sauce,True,24
-304,31,Caprese Salad,10.3,Taco,Battered fish served with fries,False,16
+304,31,Caprese Chicken,10.3,Taco,Battered fish served with fries,False,16
 305,31,Vegetable Stir Fry,13.08,Soup,Grilled salmon with seasoning,False,27
 306,31,Minestrone Soup,13.08,Side Dish,Fried eggplant with marinara,True,18
 307,31,Vegetable Lasagna,15.47,Burger,Battered fish served with fries,True,14
@@ -313,7 +313,7 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 312,32,Fried Chicken,5.46,Pizza,Layered pasta with tomato sauce,True,23
 313,32,Vegetable Stir Fry,6.23,Soup,Crispy garlic bread,False,22
 314,32,Margherita Pizza,13.58,Side Dish,Spicy tuna rolls with rice,True,18
-315,32,Beef Tacos,8.41,Burger,Vegetable soup with pasta,False,24
+315,32,Chicken Tacos,8.41,Burger,Vegetable soup with pasta,False,24
 316,32,Spaghetti Carbonara,9.44,Wrap,Seasoned beef in tacos,False,30
 317,32,Caesar Salad,10.43,Taco,Layered pasta with tomato sauce,False,16
 318,32,Minestrone Soup,11.52,Salad,Juicy beef patty with cheese,False,20
@@ -329,27 +329,27 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 328,33,Caprese Salad,6.91,Burger,Battered fish served with fries,False,21
 329,33,Caesar Salad,17.21,Salad,Classic pasta with rich sauce,True,30
 330,33,Fish and Chips,19.88,Pasta,Toasted bread with cheese,True,11
-331,34,Cheeseburger,5.48,Wrap,Fresh salad with caesar dressing,False,16
-332,34,Spicy Tuna Roll,9.87,Main Course,Juicy beef patty with cheese,True,21
-333,34,Vegetable Stir Fry,9.02,Side Dish,Fresh salad with caesar dressing,True,30
-334,34,Spicy Tuna Roll,11.72,Pizza,Spicy tuna rolls with rice,True,18
+331,34,Chicken Cheeseburger,5.48,Wrap,Fresh salad with caesar dressing,False,16
+332,34,Spicy Curry,9.87,Main Course,Juicy beef patty with cheese,True,21
+333,34,Vegetable Curry Fry,9.02,Side Dish,Fresh salad with caesar dressing,True,30
+334,34,Spicy Salad,11.72,Pizza,Spicy tuna rolls with rice,True,18
 335,34,Caprese Salad,10.83,Main Course,Fresh salad with caesar dressing,False,26
 336,34,Chicken Parmesan,8.58,Soup,Grilled chicken in tortilla wrap,True,21
-337,34,Vegetable Stir Fry,9.14,Pizza,Spicy penne pasta with tomato sauce,False,12
+337,34,Vegetable Salad,9.14,Pizza,Spicy penne pasta with tomato sauce,False,12
 338,34,Spicy Tuna Roll,10.08,Appetizer,Spicy tuna rolls with rice,False,19
 339,34,Garlic Bread,14.66,Wrap,Toasted bread with cheese,True,16
 340,34,Cheeseburger,5.83,Soup,Classic pasta with rich sauce,False,12
 341,35,Vegetable Stir Fry,6.43,Side Dish,Breaded chicken in marinara sauce,True,22
 342,35,Fish and Chips,7.52,Pizza,Fried eggplant with marinara,False,13
 343,35,Chicken Parmesan,12.32,Pizza,Seasoned beef in tacos,False,18
-344,35,Eggplant Parmesan,5.81,Salad,Crispy garlic bread,False,27
+344,35,Eggplant Curry,5.81,Salad,Crispy garlic bread,False,27
 345,35,Garlic Bread,8.72,Wrap,Battered fish served with fries,True,22
-346,35,Caprese Salad,8.84,Appetizer,Fresh mozzarella with basil,False,19
+346,35,Chicken Salad,8.84,Appetizer,Fresh mozzarella with basil,False,19
 347,35,Spicy Tuna Roll,14.11,Soup,Juicy beef patty with cheese,True,24
 348,35,Caprese Salad,19.41,Pizza,Grilled salmon with seasoning,False,22
 349,35,Grilled Salmon,15.41,Taco,Fried eggplant with marinara,False,16
 350,35,Eggplant Parmesan,18.01,Wrap,Toasted bread with cheese,True,26
-351,36,Vegetable Stir Fry,9.88,Side Dish,Layered pasta with tomato sauce,False,25
+351,36,Vegetable Curry,9.88,Side Dish,Layered pasta with tomato sauce,False,25
 352,36,Vegetable Lasagna,15.58,Taco,Seasoned beef in tacos,False,29
 353,36,Cheeseburger,16.99,Salad,Stir-fried vegetables with soy sauce,True,20
 354,36,Chicken Wrap,10.11,Pizza,Traditional pizza with mozzarella,True,12
@@ -359,92 +359,92 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 358,36,Caprese Salad,6.87,Side Dish,Battered fish served with fries,False,26
 359,36,Penne Arrabbiata,12.95,Side Dish,Vegetable soup with pasta,False,22
 360,36,Grilled Salmon,19.89,Sushi,Juicy beef patty with cheese,False,17
-361,37,Garlic Bread,15.63,Salad,Traditional pizza with mozzarella,False,27
-362,37,Fish and Chips,17.39,Side Dish,Grilled chicken in tortilla wrap,False,27
+361,37,Garlic Naan,15.63,Salad,Traditional pizza with mozzarella,False,27
+362,37,Fish Curry,17.39,Side Dish,Grilled chicken in tortilla wrap,False,27
 363,37,Fish and Chips,14.01,Taco,Seasoned beef in tacos,False,27
 364,37,Minestrone Soup,12.11,Pasta,Toasted bread with cheese,True,16
 365,37,Garlic Bread,14.39,Soup,Battered fish served with fries,False,15
 366,37,Penne Arrabbiata,11.43,Salad,Crispy fried chicken,False,21
 367,37,Fried Chicken,8.63,Appetizer,Spicy penne pasta with tomato sauce,True,12
-368,37,Cheeseburger,17.44,Salad,Vegetable soup with pasta,False,25
+368,37,Chicken Cheeseburger,17.44,Salad,Vegetable soup with pasta,False,25
 369,37,Grilled Cheese,10.05,Salad,Grilled salmon with seasoning,False,25
 370,37,Cheeseburger,18.14,Sushi,Crispy garlic bread,True,20
 371,38,Caprese Salad,8.56,Salad,Classic pasta with rich sauce,True,14
-372,38,Grilled Cheese,14.78,Sushi,Fresh mozzarella with basil,True,22
+372,38,Grilled Chicken,14.78,Sushi,Fresh mozzarella with basil,True,22
 373,38,Grilled Cheese,14.67,Main Course,Spicy penne pasta with tomato sauce,False,14
 374,38,Cheeseburger,9.82,Pizza,Traditional pizza with mozzarella,False,22
-375,38,Cheeseburger,6.27,Wrap,Classic pasta with rich sauce,False,28
-376,38,Spicy Tuna Roll,8.29,Taco,Breaded chicken in marinara sauce,True,12
-377,38,Grilled Cheese,19.27,Appetizer,Crispy garlic bread,False,16
+375,38,Chicken Cheeseburger,6.27,Wrap,Classic pasta with rich sauce,False,28
+376,38,Spicy Curry Roll,8.29,Taco,Breaded chicken in marinara sauce,True,12
+377,38,Grilled Veggies,19.27,Appetizer,Crispy garlic bread,False,16
 378,38,Fried Chicken,19.38,Soup,Fresh mozzarella with basil,False,11
 379,38,Spicy Tuna Roll,8.26,Taco,Crispy fried chicken,False,14
-380,38,Grilled Cheese,16.74,Burger,Traditional pizza with mozzarella,True,21
+380,38,Grilled Tofu,16.74,Burger,Traditional pizza with mozzarella,True,21
 381,39,Grilled Cheese,7.93,Burger,Spicy tuna rolls with rice,False,13
 382,39,Chicken Parmesan,15.68,Taco,Classic pasta with rich sauce,True,24
 383,39,Spaghetti Carbonara,8.86,Pasta,Spicy tuna rolls with rice,False,24
 384,39,Beef Tacos,5.21,Sushi,Crispy fried chicken,False,13
 385,39,Eggplant Parmesan,17.84,Wrap,Layered pasta with tomato sauce,True,15
 386,39,Margherita Pizza,18.37,Soup,Spicy tuna rolls with rice,True,17
-387,39,Grilled Cheese,16.26,Wrap,Fresh salad with caesar dressing,True,20
+387,39,Grilled Chicken,16.26,Wrap,Fresh salad with caesar dressing,True,20
 388,39,Fish and Chips,11.2,Pasta,Layered pasta with tomato sauce,True,26
-389,39,Margherita Pizza,8.65,Pasta,Traditional pizza with mozzarella,True,24
+389,39,Farmhouse Pizza,8.65,Pasta,Traditional pizza with mozzarella,True,24
 390,39,Garlic Bread,11.71,Sushi,Crispy fried chicken,False,28
 391,40,Caesar Salad,9.37,Appetizer,Fried eggplant with marinara,True,10
 392,40,Eggplant Parmesan,13.62,Main Course,Fried eggplant with marinara,True,18
 393,40,Chicken Parmesan,12.93,Sushi,Seasoned beef in tacos,False,20
-394,40,Fried Chicken,15.77,Appetizer,Fresh mozzarella with basil,False,25
-395,40,Spicy Tuna Roll,13.78,Soup,Fresh mozzarella with basil,True,14
+394,40,Fried Rice,15.77,Appetizer,Fresh mozzarella with basil,False,25
+395,40,Chicken Tuna Roll,13.78,Soup,Fresh mozzarella with basil,True,14
 396,40,Fried Chicken,9.27,Appetizer,Fresh salad with caesar dressing,True,24
-397,40,Beef Tacos,10.56,Sushi,Creamy pasta with alfredo sauce,True,15
-398,40,Spicy Tuna Roll,15.82,Taco,Spicy tuna rolls with rice,False,17
+397,40,Chicken Tacos,10.56,Sushi,Creamy pasta with alfredo sauce,True,15
+398,40,Spicy Curry Roll,15.82,Taco,Spicy tuna rolls with rice,False,17
 399,40,Spicy Tuna Roll,19.16,Salad,Creamy pasta with alfredo sauce,False,21
 400,40,Beef Tacos,17.42,Soup,Crispy fried chicken,True,10
 401,41,Fried Chicken,18.57,Wrap,Creamy pasta with alfredo sauce,False,17
 402,41,Chicken Parmesan,15.22,Main Course,Grilled salmon with seasoning,False,26
-403,41,Vegetable Lasagna,10.62,Pizza,Crispy garlic bread,True,19
-404,41,Fish and Chips,7.23,Pizza,Layered pasta with tomato sauce,True,26
+403,41,Vegetable Fry,10.62,Pizza,Crispy garlic bread,True,19
+404,41,Fish Curry,7.23,Pizza,Layered pasta with tomato sauce,True,26
 405,41,Eggplant Parmesan,15.25,Pizza,Spicy tuna rolls with rice,True,25
-406,41,Fried Chicken,12.35,Sushi,Seasoned beef in tacos,False,10
+406,41,Fried Rice,12.35,Sushi,Seasoned beef in tacos,False,10
 407,41,Fettuccine Alfredo,6.59,Taco,Toasted bread with cheese,True,22
 408,41,Minestrone Soup,14.22,Main Course,Toasted bread with cheese,True,11
 409,41,Vegetable Lasagna,7.08,Main Course,Creamy pasta with alfredo sauce,True,14
 410,41,Margherita Pizza,18.06,Burger,Grilled salmon with seasoning,True,11
-411,42,Chicken Wrap,7.26,Pizza,Spicy tuna rolls with rice,True,13
-412,42,Fettuccine Alfredo,10.71,Wrap,Fried eggplant with marinara,False,30
+411,42,Chicken Salad,7.26,Pizza,Spicy tuna rolls with rice,True,13
+412,42,Pasta Alfredo,10.71,Wrap,Fried eggplant with marinara,False,30
 413,42,Beef Tacos,18.57,Salad,Fresh salad with caesar dressing,True,15
 414,42,Fettuccine Alfredo,12.22,Main Course,Breaded chicken in marinara sauce,False,21
 415,42,Cheeseburger,15.13,Salad,Fresh mozzarella with basil,True,30
 416,42,Eggplant Parmesan,14.29,Wrap,Grilled chicken in tortilla wrap,False,20
 417,42,Fish and Chips,5.28,Burger,Crispy fried chicken,True,28
-418,42,Caesar Salad,11.14,Pasta,Traditional pizza with mozzarella,True,29
+418,42,Chicken Salad,11.14,Pasta,Traditional pizza with mozzarella,True,29
 419,42,Caesar Salad,5.62,Wrap,Traditional pizza with mozzarella,True,16
 420,42,Chicken Wrap,6.03,Appetizer,Breaded chicken in marinara sauce,False,11
-421,43,Spicy Tuna Roll,19.31,Burger,Layered pasta with tomato sauce,False,22
-422,43,Grilled Cheese,19.38,Main Course,Vegetable soup with pasta,True,18
+421,43,Spicy Curry,19.31,Burger,Layered pasta with tomato sauce,False,22
+422,43,Grilled Chicken,19.38,Main Course,Vegetable soup with pasta,True,18
 423,43,Vegetable Stir Fry,9.91,Sushi,Creamy pasta with alfredo sauce,True,20
 424,43,Chicken Wrap,14.74,Main Course,Toasted bread with cheese,True,30
 425,43,Cheeseburger,7.22,Main Course,Traditional pizza with mozzarella,False,16
 426,43,Fettuccine Alfredo,16.97,Pizza,Classic pasta with rich sauce,False,19
-427,43,Spicy Tuna Roll,12.2,Sushi,Crispy fried chicken,True,21
+427,43,Spicy Curry,12.2,Sushi,Crispy fried chicken,True,21
 428,43,Garlic Bread,16.51,Pizza,Crispy fried chicken,True,11
 429,43,Spicy Tuna Roll,15.41,Burger,Fried eggplant with marinara,True,26
 430,43,Grilled Cheese,15.94,Pizza,Spicy penne pasta with tomato sauce,True,22
 431,44,Fish and Chips,12.32,Soup,Battered fish served with fries,True,17
-432,44,Margherita Pizza,18.31,Soup,Battered fish served with fries,True,16
+432,44,Farmhouse Pizza,18.31,Soup,Battered fish served with fries,True,16
 433,44,Minestrone Soup,12.41,Pasta,Fresh salad with caesar dressing,False,20
 434,44,Beef Tacos,17.93,Wrap,Spicy tuna rolls with rice,True,23
-435,44,Chicken Wrap,8.94,Wrap,Vegetable soup with pasta,True,18
+435,44,Chicken Salad,8.94,Wrap,Vegetable soup with pasta,True,18
 436,44,Grilled Salmon,9.37,Main Course,Toasted bread with cheese,True,23
 437,44,Margherita Pizza,8.45,Soup,Breaded chicken in marinara sauce,True,10
 438,44,Caprese Salad,19.3,Sushi,Toasted bread with cheese,False,20
 439,44,Chicken Wrap,5.89,Wrap,Spicy penne pasta with tomato sauce,True,12
 440,44,Vegetable Lasagna,15.02,Burger,Fried eggplant with marinara,False,14
 441,45,Chicken Wrap,11.92,Sushi,Vegetable soup with pasta,False,11
-442,45,Eggplant Parmesan,8.83,Burger,Grilled salmon with seasoning,True,29
-443,45,Penne Arrabbiata,19.17,Sushi,Layered pasta with tomato sauce,True,27
-444,45,Minestrone Soup,12.93,Soup,Spicy penne pasta with tomato sauce,False,17
+442,45,Eggplant Curry,8.83,Burger,Grilled salmon with seasoning,True,29
+443,45,Penne Pasta,19.17,Sushi,Layered pasta with tomato sauce,True,27
+444,45,Tomato Soup,12.93,Soup,Spicy penne pasta with tomato sauce,False,17
 445,45,Penne Arrabbiata,5.16,Salad,Fresh mozzarella with basil,True,16
-446,45,Vegetable Lasagna,13.75,Pizza,Fresh mozzarella with basil,True,20
+446,45,Vegetable Fry,13.75,Pizza,Fresh mozzarella with basil,True,20
 447,45,Eggplant Parmesan,6.83,Pizza,Fried eggplant with marinara,False,25
 448,45,Spaghetti Carbonara,10.11,Pasta,Classic pasta with rich sauce,True,14
 449,45,Minestrone Soup,8.94,Pizza,Classic pasta with rich sauce,True,23
@@ -452,26 +452,26 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 451,46,Eggplant Parmesan,18.01,Wrap,Spicy tuna rolls with rice,False,27
 452,46,Chicken Wrap,10.48,Sushi,Juicy beef patty with cheese,True,14
 453,46,Grilled Cheese,10.89,Soup,Seasoned beef in tacos,False,10
-454,46,Caesar Salad,14.1,Main Course,Layered pasta with tomato sauce,True,30
+454,46,Chicken Salad,14.1,Main Course,Layered pasta with tomato sauce,True,30
 455,46,Grilled Salmon,11.04,Appetizer,Spicy tuna rolls with rice,False,12
-456,46,Grilled Cheese,12.52,Soup,Battered fish served with fries,True,17
-457,46,Grilled Salmon,13.12,Pizza,Juicy beef patty with cheese,False,11
+456,46,Grilled Tofu,12.52,Soup,Battered fish served with fries,True,17
+457,46,Grilled veggies,13.12,Pizza,Juicy beef patty with cheese,False,11
 458,46,Caesar Salad,7.6,Sushi,Creamy pasta with alfredo sauce,False,26
 459,46,Beef Tacos,14.02,Main Course,Battered fish served with fries,False,21
 460,46,Chicken Parmesan,5.46,Pasta,Fried eggplant with marinara,False,27
-461,47,Minestrone Soup,9.96,Appetizer,Traditional pizza with mozzarella,True,28
-462,47,Garlic Bread,13.95,Appetizer,Breaded chicken in marinara sauce,True,27
+461,47,Tomato Soup,9.96,Appetizer,Traditional pizza with mozzarella,True,28
+462,47,Garlic Naan,13.95,Appetizer,Breaded chicken in marinara sauce,True,27
 463,47,Vegetable Stir Fry,9.64,Side Dish,Battered fish served with fries,True,11
 464,47,Minestrone Soup,16.98,Salad,Spicy tuna rolls with rice,False,20
-465,47,Beef Tacos,7.66,Main Course,Creamy pasta with alfredo sauce,True,28
+465,47,chicken Tacos,7.66,Main Course,Creamy pasta with alfredo sauce,True,28
 466,47,Chicken Wrap,16.26,Pizza,Fresh mozzarella with basil,False,21
 467,47,Chicken Wrap,14.61,Appetizer,Breaded chicken in marinara sauce,True,22
 468,47,Chicken Parmesan,6.04,Burger,Fresh salad with caesar dressing,False,23
 469,47,Beef Tacos,15.17,Wrap,Creamy pasta with alfredo sauce,False,26
 470,47,Garlic Bread,13.48,Burger,Fried eggplant with marinara,True,10
-471,48,Cheeseburger,11.23,Salad,Vegetable soup with pasta,False,21
-472,48,Grilled Salmon,5.2,Main Course,Grilled salmon with seasoning,True,24
-473,48,Chicken Parmesan,17.23,Salad,Crispy garlic bread,False,27
+471,48,Chicken Cheeseburger,11.23,Salad,Vegetable soup with pasta,False,21
+472,48,Grilled Chicken,5.2,Main Course,Grilled salmon with seasoning,True,24
+473,48,Chicken Salad,17.23,Salad,Crispy garlic bread,False,27
 474,48,Spicy Tuna Roll,12.36,Sushi,Stir-fried vegetables with soy sauce,True,13
 475,48,Eggplant Parmesan,6.17,Taco,Traditional pizza with mozzarella,False,16
 476,48,Grilled Salmon,14.69,Taco,Crispy fried chicken,False,21
@@ -485,15 +485,15 @@ item_id,restaurant_id,name,price,category,description,availability,preparation_t
 484,49,Vegetable Lasagna,18.29,Salad,Layered pasta with tomato sauce,False,14
 485,49,Beef Tacos,12.25,Sushi,Spicy tuna rolls with rice,True,15
 486,49,Chicken Wrap,16.46,Appetizer,Classic pasta with rich sauce,True,18
-487,49,Caprese Salad,8.22,Wrap,Fresh salad with caesar dressing,False,28
+487,49,Chicken Salad,8.22,Wrap,Fresh salad with caesar dressing,False,28
 488,49,Fried Chicken,9.62,Soup,Breaded chicken in marinara sauce,False,16
 489,49,Caprese Salad,7.07,Wrap,Grilled salmon with seasoning,True,10
 490,49,Margherita Pizza,16.12,Salad,Seasoned beef in tacos,True,29
 491,50,Spaghetti Carbonara,11.6,Pizza,Traditional pizza with mozzarella,False,15
-492,50,Beef Tacos,13.29,Salad,Fresh mozzarella with basil,True,14
+492,50,Chicken Tacos,13.29,Salad,Fresh mozzarella with basil,True,14
 493,50,Caprese Salad,9.82,Soup,Spicy penne pasta with tomato sauce,True,17
 494,50,Penne Arrabbiata,14.23,Soup,Layered pasta with tomato sauce,True,18
-495,50,Cheeseburger,7.48,Main Course,Vegetable soup with pasta,True,13
+495,50,Chicken Cheeseburger,7.48,Main Course,Vegetable soup with pasta,True,13
 496,50,Grilled Cheese,10.47,Soup,Battered fish served with fries,True,11
 497,50,Beef Tacos,11.6,Side Dish,Fried eggplant with marinara,True,18
 498,50,Eggplant Parmesan,11.67,Main Course,Battered fish served with fries,False,24
